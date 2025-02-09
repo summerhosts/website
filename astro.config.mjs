@@ -12,14 +12,12 @@ export default defineConfig({
 			},
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-					],
+					label: 'Introduction',
+					autogenerate: { directory: 'Introduction' },
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Hosts',
+					autogenerate: { directory: 'Hosts' },
 				},
 			],
 		}),
