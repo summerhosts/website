@@ -9,3 +9,7 @@
 * [YT vid](https://www.youtube.com/watch?v=rpP9hIjgJe0)
 * [Discord](https://discord.gg/vnB9hNfqGD)
 * [Trustpilot](https://www.trustpilot.com/review/polarisnode.com)
+
+## Images
+### Main page
+![main page](../../static/img/polarisnode.com/polarisnode.com%20main%20page.png)
