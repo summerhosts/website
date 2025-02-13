@@ -38,7 +38,7 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          routeBasePath: '/', // Serve the docs at the site's root
+          routeBasePath: '/', 
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: ({ locale, docPath }) => {
@@ -47,6 +47,7 @@ const config: Config = {
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },

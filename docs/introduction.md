@@ -1,6 +1,7 @@
 ---
 title: What?
 description: An introduction to the site.
+slug: /
 ---
 
 # What is this
