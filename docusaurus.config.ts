@@ -31,6 +31,14 @@ const config: Config = {
     locales: ['en'],
   },
 
+  markdown: {
+    mermaid: true
+  },
+
+  themes: [
+    '@docusaurus/theme-mermaid'
+  ],
+
   presets: [
     [
       'classic',
@@ -38,11 +46,11 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          routeBasePath: '/', 
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: ({ locale, docPath }) => {
-            return `https://github.com/summerhosts/website/edit/main/${docPath}`;
+            return `https://github.com/summerhosts/website/edit/main/docs/${docPath}`;
           },
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
@@ -65,12 +73,6 @@ const config: Config = {
         src: 'img/favicon.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Tutorial',
-        },
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',

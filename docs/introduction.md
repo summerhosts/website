@@ -1,5 +1,5 @@
 ---
-title: What?
+title: Introduction
 description: An introduction to the site.
 slug: /
 ---
