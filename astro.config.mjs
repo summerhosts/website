@@ -9,7 +9,7 @@ export default defineConfig({
 	integrations: [starlight({
 		title: 'Summer Hosts',
 		social: {
-			github: 'https://github.com/DisserCord/summerhosts',
+			github: 'https://github.com/summerhosts/website',
 		},
 		sidebar: [
 			{
