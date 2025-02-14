@@ -13,12 +13,12 @@ graph TD;
   H --> GR[gridway.io];
 
   PO --> PLC[plutonodes.com];
-  PO --> PA[palladin];
+  PO --> Z;
 
-  PA --> Z1[ztx.gd];
-  Z1 --> B[blare.host];
-  B --> Z2[ztx.gd];
-  LU[Lunx] --> TE[tegra.gg];
+  Z[ztx.gd] --> PA[palladin];
+  Z --> B[blare.host];
+  B --> LU[lunix.host];
+  LU -->|'he just gave it back' to Matt| TE[tegra.gg];
   TE --> X1[xeh.sh];
   X1 --> PL[plutonodes.net];
   PL --> FR[frac.gg];
@@ -26,6 +26,7 @@ graph TD;
   SY --> XE["xeh.sh (ether)"];
   XE -->|Buyers were scammed by ether, allegedly| X2["xeh.sh (buyers)"];
   XE --> S["Shut down"];
+  X2 --> WIP[WIP];
 
   NE[netherite.io] --> D[died];
   CO --> D;
