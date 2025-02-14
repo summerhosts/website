@@ -39,6 +39,14 @@ const config: Config = {
     '@docusaurus/theme-mermaid'
   ],
 
+  scripts: [
+    {
+      src: "https://cloud.umami.is/script.js",
+      defer: true,
+      "data-website-id":"40565f17-c78c-4d05-8db6-7cf7b772aa64"
+    }
+  ],
+
   presets: [
     [
       'classic',
