@@ -9,8 +9,10 @@ graph TD;
   A[artix.cloud] --> H[halex.gg];
   H --> PO[polarisnode.com];
   H --> CO[containeris.wtf];
+
   PO --> PLC[plutonodes.com];
   PO --> PA[palladin];
+  
   PA --> Z1[ztx.gd];
   Z1 --> B[blare.host];
   B --> Z2[ztx.gd];
@@ -21,11 +23,13 @@ graph TD;
   FR --> SY[synthoptic.io]
   SY --> XE["xeh.sh (ether)"];
   XE -->|Buyers were scammed by ether, allegedly| X2["xeh.sh (buyers)"];
-  XE --> S["Shut down"]
+  XE --> S["Shut down"];
+
   NE[netherite.io] --> D[died];
   CO --> D;
   
 
   click PO href "/Hosts/polarisnode.com";
-  click XE href "/Hosts/xeh.sh#shutdown-1122025";
+  click XE href "/Hosts/xeh.sh;
+  click H href "/Hosts/halex.gg;
 ```
