@@ -1,6 +1,6 @@
 ---
 title: History
-description: An overview on the history of summer hosts
+description: An overview on the history of summer hosts.
 sidebar_position: 2
 ---
 

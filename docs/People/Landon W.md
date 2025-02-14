@@ -1,6 +1,8 @@
 ---
 title: Landon W.
+description: A dude who got scammed out of $120.
 ---
+
 AKA cooldragon12346, was allegedly scammed by ether out of $120
 
 ## Media provided

@@ -1,5 +1,6 @@
 ---
 title: heliactyl
+description: Page about the Heliactyl pterodactyl dashboard.
 ---
 
 Software that was used on [Polaris](../Hosts/polarisnode.com.md) [Halex 14](../Hosts/halex.gg.md) [Gridway](../Hosts/gridway.io.md).

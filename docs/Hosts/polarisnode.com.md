@@ -15,4 +15,4 @@ title: polarisnode.com
 
 # Images
 ## Main page
-![main page](../../static/img/polarisnode.com/polarisnode.com%20main%20page.png)
+![main page](https://summerhosts.github.io/media/polaris/polarisnode.com%20main%20page.png)

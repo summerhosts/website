@@ -1,8 +1,9 @@
 ---
 title: gridway.io
+description: paid-for host that appeared in 2024 that didn't get much attention and was owned by [Matt James](../People/Matt%20James.md)
 ---
 
-This was a paid-for host that eventually died (it was never alive and didn't get much attention)
+This was a paid-for host that eventually died (it never got much attention)
 
 # Info
 * [Website](https://gridway.io/)

@@ -1,5 +1,6 @@
 ---
 title: SRYDEN
+description: History of SRYDEN.
 ---
 
 * Has a [YoTube channel](https://www.youtube.com/@SRYDEN)
