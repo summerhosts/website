@@ -16,7 +16,7 @@ graph TD;
   PA --> Z1[ztx.gd];
   Z1 --> B[blare.host];
   B --> Z2[ztx.gd];
-  Z2 --> TE[tegra.gg];
+  LU[Lunx] --> TE[tegra.gg];
   TE --> X1[xeh.sh];
   X1 --> PL[plutonodes.net];
   PL --> FR[frac.gg];

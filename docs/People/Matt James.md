@@ -5,12 +5,17 @@ description: Someone who made "free" hosts.
 
 * Owner of the majority of the hosts mentioned here
 * Lives in England
-* Has a crib in Nottingham where some nodes for [XEH](../Hosts/xeh.sh.mdx) were hosted (they got bricked by a data breach that did something do the hardware)
+* Has a crib in Nottingham where some nodes for [XEH](../Hosts/xeh.sh.mdx) were hosted (they got bricked by a data breach that did something to the hardware)
 * Travels by train regularly
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
+* Owns [SRYDEN](../Companies/SRYDEN.md)
+* Owns [Octant](../Companies/Octant.md)
+* Developper of [Skyport](https://skyport.dev/)
 * Also known as
   * atqr (1tqr)
   * ether (etherxr)
   * mark brown
   * Dr. Kai-Fu Lee (mattj20)
   * badsk
+  * ararat (araratxt)
+  * Ampere

@@ -13,3 +13,6 @@ Summer hosts are companies that provide hosting services that only last a few we
 
 # History
 The [history page](./history.md) is a thing. Note that some of the text there is a link so dont hesitate to click on it.
+
+# Useful tools
+* **[Snowstamp](https://snowsta.mp/):** gets the timestamp of when a message was sent from its ID
