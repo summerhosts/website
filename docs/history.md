@@ -12,7 +12,7 @@ graph TD;
 
   PO --> PLC[plutonodes.com];
   PO --> PA[palladin];
-  
+
   PA --> Z1[ztx.gd];
   Z1 --> B[blare.host];
   B --> Z2[ztx.gd];
@@ -30,6 +30,6 @@ graph TD;
   
 
   click PO href "/Hosts/polarisnode.com";
-  click XE href "/Hosts/xeh.sh;
-  click H href "/Hosts/halex.gg;
+  click XE href "/Hosts/xeh.sh";
+  click H href "/Hosts/halex.gg";
 ```
