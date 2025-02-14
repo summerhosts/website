@@ -1,4 +1,6 @@
-# polarisnode.com
+---
+title: polarisnode.com
+---
 ## Info
 * [Website](https://polarisnode.com)
 * [Dashboard](https://my.polarisnode.com)

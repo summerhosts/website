@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Summerhosts',
+  title: 'Summer Hosts',
   tagline: 'The history of ephemeral hosting services.',
-  favicon: 'img/favicon.svg',
+  favicon: 'icons/favicon.svg',
 
   // Set the production url of your site here
   url: 'https://summerhosts.netlify.app',
@@ -73,12 +73,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'logo.svg',
+    image: 'icons/favicon.svg',
     navbar: {
-      title: 'Summerhosts',
+      title: 'Summer Hosts',
       logo: {
         alt: 'Site logo',
-        src: 'img/favicon.svg',
+        src: 'icons/favicon.svg',
       },
       items: [
         {
@@ -91,7 +91,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [],
-      copyright: `Copyright © ${new Date().getFullYear()} Summerhosts, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Summerh Hosts, Inc. Built with Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,

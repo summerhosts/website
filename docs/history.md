@@ -1,6 +1,7 @@
 ---
 title: History
 description: An overview on the history of summer hosts
+sidebar_position: 2
 ---
 
 ```mermaid
@@ -21,6 +22,7 @@ graph TD;
   XE -->|Buyers were scammed by ether, allegedly| X2["xeh.sh (buyers)"];
   XE --> S["Shut down"]
   NE[netherite.io] --> D[died];
+
   click PO href "/Hosts/polarisnode.com";
   click XE href "/Hosts/xeh.sh#shutdown-1122025";
 ```
