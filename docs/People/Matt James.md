@@ -10,3 +10,5 @@ title: Matt James
   * atqr (1tqr)
   * ether (etherxr)
   * mark brown
+  * Dr. Kai-Fu Lee (mattj20)
+  * badsk
