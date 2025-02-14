@@ -31,7 +31,10 @@ Axis AI: offers an AI response and API for x currency
 ![Panel](../../static/img/xeh.sh/Octant/panel.png)
 
 ### Dashboard
-![Dashboard](../../static/img/xeh.sh/Octant/xeh%205.1%20dashboard.png)
+![Dashboard overview](../../static/img/xeh.sh/Octant/xeh%205.1%20dashboard.png)
+![Dashboard panel like section](../../static/img/xeh.sh/Octant/xeh%20dashboard.png)
+![Dashboard server file upload](../../static/img/xeh.sh/Octant/xeh%20file%20upload.png)
+
 
 ### Shutdown (~11/2/2025)
 The XEH server got deleted after an `@everyone` ping. The ping basically stated that xeh will shut down and node data will be gone by x dates.
