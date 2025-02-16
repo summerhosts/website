@@ -24,10 +24,10 @@ graph TD;
   PL --> FR[frac.gg];
   FR --> SY[synthoptic.io]
   SY --> XE["xeh.sh (ether)"];
-  XE -->|Buyers were scammed by ether, allegedly| X2["xeh.sh (scammed buyers own this)"];
-  XE --> O["Octant"];
+  X2 -->|Buyers were scammed by ether, allegedly| XE["xeh.sh (scammed buyers own this)"];
+  X" --> O["octant.sh"];
 
-  X2 --> WIP[WIP];
+  XE --> WIP[WIP];
   O --> WIP;
 
   NE[netherite.io] --> D[died];
