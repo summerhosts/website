@@ -1,9 +1,9 @@
 ---
-title: Landon W.
+title: Landon West
 description: A dude who got scammed out of $120.
 ---
 
-AKA cooldragon12346, was allegedly scammed by ether out of $120
+AKA cooldragon12346, was allegedly scammed by ether out of $120 by [Ether](./Matt%20James.md)
 
 ## Media provided
 ![Dashboard overview](https://summerhosts.github.io/media/xeh/Octant/xeh%205.1%20dashboard.png)
