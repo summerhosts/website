@@ -10,4 +10,4 @@ This was a paid-for host that eventually died (it never got much attention)
 ## Info
 * [Website](https://gridway.io/)
 * [Console (offline)](http://console.gridway.io/)
-* Dashboard software: [Heliactyl](../Software/heliactyl.md), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
+* Dashboard software: [Heliactyl](../Software/heliactyl.mdx), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
