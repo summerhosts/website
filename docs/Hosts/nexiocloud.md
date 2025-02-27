@@ -1,5 +1,8 @@
 ---
 title: Nexio Cloud
+tags:
+  - Free host
+  - Paid host
 ---
 
 ## Info

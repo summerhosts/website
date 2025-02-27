@@ -1,5 +1,7 @@
 ---
 title: polarisnode.com
+tags:
+  - Free host
 ---
 
 ## Info
