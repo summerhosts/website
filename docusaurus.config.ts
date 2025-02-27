@@ -82,7 +82,7 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/summerhosts/website',
           label: 'GitHub',
           position: 'right',
         },
