@@ -38,7 +38,8 @@ graph TD;
 
 
   click PO href "/Hosts/polarisnode.com";
-  click XE href "/Hosts/xeh.sh";
+  click XEE href "/Hosts/xeh.sh";
+  click XEB href "/Hosts/nexiocloud.sh";
   click H href "/Hosts/halex.gg";
   click GR href "/Hosts/gridway.io";
   click TE href "/Hosts/tegra.gg";
