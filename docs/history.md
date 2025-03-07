@@ -28,10 +28,10 @@ graph TD;
 
   XEE --> N["nexiocloud"];
   XEE --> O["octant.sh"];
-  O -->|Octant was handed over to Sabrina Goom who kept it running| A["altare"]
+  O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare"]
 
   XEB --> WIP[WIP];
-  A --> WIP;
+  AL --> WIP;
 
   NE[netherite.io] --> D[died];
   CO --> D;
