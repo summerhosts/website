@@ -25,7 +25,7 @@ graph TD;
   FR --> SY[synthoptic.io]
   SY --> XE["xeh.sh (ether)"];
   X2 -->|Buyers were scammed by ether, allegedly| XE["xeh.sh (scammed buyers own this)"];
-  X" --> O["octant.sh"];
+  X --> O["octant.sh"];
 
   XE --> WIP[WIP];
   O --> WIP;
