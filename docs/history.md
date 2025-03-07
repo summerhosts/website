@@ -26,11 +26,11 @@ graph TD;
   SY --> XEE["xeh.sh (ether)"];
   XEE -->|Buyers were scammed by ether, allegedly| XEB["xeh.sh (scammed buyers own this)"];
 
-  XEE --> N["nexiocloud"];
+  XEB --> N["nexiocloud"];
   XEE --> O["octant.sh"];
   O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare"]
 
-  XEB --> WIP[WIP];
+  N --> WIP[WIP];
   AL --> WIP;
 
   NE[netherite.io] --> D[died];
