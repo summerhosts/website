@@ -23,12 +23,15 @@ graph TD;
   X1 --> PL[plutonodes.net];
   PL --> FR[frac.gg];
   FR --> SY[synthoptic.io]
-  SY --> XE["xeh.sh (ether)"];
-  X2 -->|Buyers were scammed by ether, allegedly| XE["xeh.sh (scammed buyers own this)"];
-  X --> O["octant.sh"];
+  SY --> XEE["xeh.sh (ether)"];
+  XEE -->|Buyers were scammed by ether, allegedly| XEB["xeh.sh (scammed buyers own this)"];
 
-  XE --> WIP[WIP];
-  O --> WIP;
+  X --> N["nexiocloud"];
+  X --> O["octant.sh"];
+  O -->|Octant was handed over to Sabrina Goom who kept it running| A["altare"]
+
+  XEB --> WIP[WIP];
+  A --> WIP;
 
   NE[netherite.io] --> D[died];
   CO --> D;
@@ -39,4 +42,7 @@ graph TD;
   click H href "/Hosts/halex.gg";
   click GR href "/Hosts/gridway.io";
   click TE href "/Hosts/tegra.gg";
+  click O href "/Hosts/octant.sh";
+  click N href "/Hosts/nexiocloud";
+  click A href "/Hosts/altare";
 ```
