@@ -45,5 +45,5 @@ graph TD;
   click TE href "/Hosts/tegra.gg";
   click O href "/Hosts/octant.sh";
   click N href "/Hosts/nexiocloud";
-  click A href "/Hosts/altare";
+  click AL href "/Hosts/altare";
 ```
