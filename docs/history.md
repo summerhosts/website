@@ -30,7 +30,7 @@ graph TD;
   XEE --> O["octant.sh"];
   O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare"]
 
-  N --> WIP[WIP];
+  N --> WIP;
   AL --> WIP;
 
   NE[netherite.io] --> D[died];
