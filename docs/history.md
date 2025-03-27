@@ -28,7 +28,7 @@ graph TD;
 
   XEB --> N["nexiocloud"];
   XEE --> O["octant.sh"];
-  O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare"]
+  O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"]
 
   N --> WIP;
   AL --> WIP;
@@ -45,5 +45,5 @@ graph TD;
   click TE href "/Hosts/tegra.gg";
   click O href "/Hosts/octant.sh";
   click N href "/Hosts/nexiocloud";
-  click AL href "/Hosts/altare";
+  click AL href "/Hosts/altare.pro";
 ```
