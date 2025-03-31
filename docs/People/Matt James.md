@@ -4,7 +4,8 @@ description: Someone who made "free" hosts.
 ---
 
 * Owner of the majority of the hosts mentioned here
-* Lives in England
+* Lives in the UK
+* Has a [blog](https://ether.ztl.sh/)
 * Has a crib in Nottingham where some nodes for [XEH](../Hosts/xeh.sh.mdx) were hosted (they got bricked by a data breach that did something to the hardware)
 * Travels by train regularly
 * Made a music album ("the matt james album", more info [here](/Hosts/octant.sh#the-music-album))
