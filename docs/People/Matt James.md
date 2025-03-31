@@ -1,6 +1,6 @@
 ---
 title: Matt James
-description: Someone who made "free" hosts.
+description: Someone who makes "free" hosts.
 ---
 
 ## Overall information
