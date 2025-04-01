@@ -52,6 +52,17 @@ The following section is formatted like this:
   * `ararat`
 
 ## Websites
+
+:::info
+
+The majority if not all pages in this section have been archived on [archive.org](https://web.archive.org/) or [archive.today](https://archive.today/)
+
+:::
+
 * [Portfolio](https://www.ether.pizza/)
+* [Portfolio 2](https://ether.z1.software/)
 * [Blog](https://ether.ztl.sh/)
-* [Simpler blog](https://atqr.pages.dev/) (with [this](https://atqr.pages.dev/27-02-2025) thats not linked anywere)
+* [Simpler blog](https://atqr.pages.dev/) (with these pages [**1**](https://atqr.pages.dev/27-02-2025) [**2**](https://atqr.pages.dev/statement) that are not linked anywere)
+* [Matts picture in ASCII characters](https://z1.software/)
+* [ghost.io site](https://ether-1.ghost.io/)
+* 
