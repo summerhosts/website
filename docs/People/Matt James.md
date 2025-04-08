@@ -67,7 +67,7 @@ The majority if not all pages in this section have been archived on [archive.org
 
 ## Music Albums
 ### Lowesoft (unreleased)
-_and i probably wont ever release it because it's shit_ - the guy himself
+_and i probably wont ever release it because it's shit_ - the guy himself  
 [Learn More in the Octant page](/Hosts/octant.sh#the-music-album)
 
 ![the matt james album cover](https://summerhosts.github.io/media/ether/music_album_cover.png)
