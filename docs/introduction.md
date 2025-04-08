@@ -16,3 +16,4 @@ The [history page](./history.md) is a thing. Note that some of the text there is
 
 # Useful tools
 * **[Snowstamp](https://snowsta.mp/):** gets the timestamp of when a message was sent from its ID
+* This regex to search for invalid dates `\{new Date\((\d+)\)\}`
