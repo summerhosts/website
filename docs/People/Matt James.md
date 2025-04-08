@@ -8,8 +8,6 @@ description: Someone who makes "free" hosts.
 * Lives in the UK
 * Has a crib in Nottingham where some nodes for [XEH](../Hosts/xeh.sh.mdx) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../Hosts/altare.pro.mdx))
 * Travels by train regularly
-* Made a music album ("the matt james album", more info [here](/Hosts/octant.sh#the-music-album), album cover below)
-![the matt james album cover](https://summerhosts.github.io/media/ether/music_album_cover.png)
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
 * Owns [SRYDEN](../Companies/SRYDEN.md)
 * Owns [Octant](../Companies/Octant.md)
@@ -66,4 +64,10 @@ The majority if not all pages in this section have been archived on [archive.org
 * [Simpler blog](https://atqr.pages.dev/) (with these pages [**1**](https://atqr.pages.dev/27-02-2025) [**2**](https://atqr.pages.dev/statement) that are not linked anywere)
 * [Matts picture in ASCII characters](https://z1.software/)
 * [ghost.io site](https://ether-1.ghost.io/)
-* 
+
+## Music Albums
+### Lowesoft (unreleased)
+_and i probably wont ever release it because it's shit_ - the guy himself
+[Learn More in the Octant page](/Hosts/octant.sh#the-music-album)
+
+![the matt james album cover](https://summerhosts.github.io/media/ether/music_album_cover.png)
