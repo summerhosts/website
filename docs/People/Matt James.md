@@ -66,7 +66,7 @@ The majority if not all pages in this section have been archived on [archive.org
 * [ghost.io site](https://ether-1.ghost.io/)
 
 ## Music Albums
-### Lowesoft (unreleased)
+### lowestoft (unreleased)
 _and i probably wont ever release it because it's shit_ - the guy himself  
 [Learn More in the Octant page](/Hosts/octant.sh#the-music-album)
 
