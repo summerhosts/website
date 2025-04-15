@@ -4,6 +4,12 @@ description: An overview on the history of summer hosts.
 sidebar_position: 2
 ---
 
+:::info
+
+Some of the text in this graph is a link
+
+:::
+
 ```mermaid
 graph TD;
   A[artix.cloud] --> H[halex.gg];

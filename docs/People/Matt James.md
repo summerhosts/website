@@ -10,7 +10,7 @@ description: Someone who makes "free" hosts.
 * Travels by train regularly
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
 * Owns [SRYDEN](../Companies/SRYDEN.md)
-* Owns [Octant](../Companies/Octant.md)
+* Previous owner of [Octant](../Companies/Octant.md)
 * Developper of [Skyport](https://skyport.dev/) [Argon](../Software/argon.mdx) [Heliactyl](../Software/heliactyl.mdx) [Radar](../Software/radar.mdx)
 
 ## Also known as
@@ -21,9 +21,9 @@ description: Someone who makes "free" hosts.
 :::info
 
 The following section is formatted like this:
-* [discord username] ([discord ID])
-  * [discord display name 1]
-  * [discord display name 1]
+* `discord username` [discord ID]
+  * `discord display name 1`
+  * `discord display name 1`
   * [...]
 
 :::
