@@ -1,5 +1,6 @@
 ---
 title: Foxnodes
+sidebar_label: foxnodes.net
 tags:
   - Free host
 ---

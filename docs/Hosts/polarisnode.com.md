@@ -1,5 +1,6 @@
 ---
-title: polarisnode.com
+title: Polarisnode
+sidebar_label: polarisnode.com
 tags:
   - Free host
 ---

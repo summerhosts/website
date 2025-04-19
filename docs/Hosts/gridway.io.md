@@ -1,5 +1,6 @@
 ---
-title: gridway.io
+title: Gridway
+sidebar_label: gridway.io
 description: paid-for host that appeared in 2024 that didn't get much attention and was owned by [Matt James](../People/Matt%20James.md)
 tags:
   - Paid host

@@ -1,5 +1,6 @@
 ---
-title: halex.gg
+title: Halex
+sidebar_label: halex.gg
 tags:
   - Free host
 ---
