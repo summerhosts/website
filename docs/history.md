@@ -50,7 +50,7 @@ graph TD;
   click XEB href "/Hosts/nexiocloud.sh";
 
   click H14 href "/Hosts/halex.gg";
-  click H15 href "/Hosts/halex.gg";
+  click H15 href "/Hosts/halex.gg#halex-14";
 
   click GR href "/Hosts/gridway.io";
   click VE href "/Hosts/gridway.io";
