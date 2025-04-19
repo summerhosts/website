@@ -27,8 +27,8 @@ graph TD;
   PO --> Z;
 
   Z[ztx.gd] --> PA[palladin];
-  Z --> B[blare.host];
-  B --> LU[lunix.host];
+  Z --> BL[blare.host];
+  BL --> LU[lunix.host];
   LU -->|'he just gave it back' to Matt| TE[tegra.gg];
   TE --> X1[xeh.sh];
   X1 --> PL[plutonodes.net];
@@ -60,7 +60,6 @@ graph TD;
 *if you have any extra info regarding these please DM beveledcube on discord*
 - Criticnode
 - Pulsar
-- Lunx
 - Xerylin
 - Lantern
 - Zen
