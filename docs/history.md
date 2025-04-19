@@ -53,3 +53,14 @@ graph TD;
   click N href "/Hosts/nexiocloud";
   click AL href "/Hosts/altare.pro";
 ```
+
+### Hosts that we know existed, thats it
+*if you have any info regarding these please DM beveledcube on discord*
+- Criticnode
+- Pulsar
+- Verse
+- Lunx
+- Xerylin
+- Lantern
+- Foxnodes
+- Zen
