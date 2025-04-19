@@ -72,8 +72,10 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
     image: 'icons/favicon.svg',
+    metadata:[
+      { name: "google-site-verification", content: "3pfuaKGpuUOYiuQ74Uj34hLx8i5W32MM6C-deolbYUs" }
+    ],
     navbar: {
       title: 'Summer Hosts',
       logo: {
