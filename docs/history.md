@@ -17,7 +17,7 @@ graph TD;
   H14 --> CO[containeris.wtf];
   H14 --> GR[gridway.io];
 
-  FO[foxnodes.net] -->|Acquired by ZTX (originally owned by FoxCloud LLC)| H15[halex.gg 15];
+  FO[foxnodes.net] -->|Acquired by ZTX, originally owned by FoxCloud LLC| H15[halex.gg 15];
   H15 --> PO[polarisnode.com];
 
   GR --> |Rebranded| VE[versevm.pro]
