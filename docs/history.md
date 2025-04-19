@@ -12,7 +12,7 @@ Some of the text in this graph is a link
 
 ```mermaid
 graph TD;
-  A[artix.cloud] --> H[halex.gg 14];
+  A[artix.cloud] --> H14[halex.gg 14];
 
   H14 --> CO[containeris.wtf];
   H14 --> GR[gridway.io];
@@ -48,8 +48,13 @@ graph TD;
   click PO href "/Hosts/polarisnode.com";
   click XEE href "/Hosts/xeh.sh";
   click XEB href "/Hosts/nexiocloud.sh";
-  click H href "/Hosts/halex.gg";
+
+  click H14 href "/Hosts/halex.gg";
+  click H15 href "/Hosts/halex.gg";
+
   click GR href "/Hosts/gridway.io";
+  click VE href "/Hosts/gridway.io";
+
   click TE href "/Hosts/tegra.gg";
   click O href "/Hosts/octant.sh";
   click N href "/Hosts/nexiocloud";
