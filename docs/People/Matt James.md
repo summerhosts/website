@@ -17,6 +17,8 @@ description: Someone who makes "free" hosts.
 ### In other places
 * `mark brown`
 * `badsk`
+* `atqr1` (telegram)
+* `Matt James Garcia Iwayan Taglinao the Third`
 
 :::info
 

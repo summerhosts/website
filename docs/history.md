@@ -12,14 +12,16 @@ Some of the text in this graph is a link
 
 ```mermaid
 graph TD;
-  A[artix.cloud] --> H[halex.gg];
+  A[artix.cloud] --> H[halex.gg 14];
 
-  H --> CO[containeris.wtf];
-  H --> GR[gridway.io];
+  H14 --> CO[containeris.wtf];
+  H14 --> GR[gridway.io];
 
-  H --> FO[foxnodes.net]
-  FO --> PO[polarisnode.com];
+  FO[foxnodes.net] -->|Acquired by ZTX (originally owned by FoxCloud LLC)| H15[halex.gg 15];
+  H15 --> PO[polarisnode.com];
+
   GR --> |Rebranded| VE[versevm.pro]
+  H15 --> VE;
 
   PO --> PLC[plutonodes.com];
   PO --> Z;

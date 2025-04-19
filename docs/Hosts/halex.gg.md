@@ -4,7 +4,7 @@ tags:
   - Free host
 ---
 
-![logo](https://summerhosts.github.io/media/halex/halex%2014%20logo.png)
+![logo](https://summerhosts.github.io/media/halex/14/logo.png)
 
 More precisely, Halex 14
 
@@ -17,8 +17,13 @@ More precisely, Halex 14
 * [YT tutorial](https://www.youtube.com/watch?v=Pyir_RsiaFw)
 
 ## Images
-![dashboard](https://summerhosts.github.io/media/halex/halex%2014%20dashboard.png)
-![locations](https://summerhosts.github.io/media/halex/halex%2014%20locations.png)
-![nodes](https://summerhosts.github.io/media/halex/halex%2014%20nodes.png)
-![software](https://summerhosts.github.io/media/halex/halex%2014%20software.png)
-![deploy page](https://summerhosts.github.io/media/halex/halex%20deploy%20page.png)
+![dashboard](https://summerhosts.github.io/media/halex/14/dashboard.png)
+![locations](https://summerhosts.github.io/media/halex/14/locations.png)
+![nodes](https://summerhosts.github.io/media/halex/14/nodes.png)
+![software](https://summerhosts.github.io/media/halex/14/software.png)
+
+# Halex 15
+![deploy page](https://summerhosts.github.io/media/halex/15/deploy.png)
+![locations](https://summerhosts.github.io/media/halex/15/locations.png)
+![nodes](https://summerhosts.github.io/media/halex/15/nodes.png)
+![NL02 node](https://summerhosts.github.io/media/halex/15/NL02.png)

@@ -5,11 +5,12 @@ tags:
 ---
 
 ### Info
-* [Website](foxnodes.net) (parked domain)
-* [Dashboard](my.foxnodes.net)
-* [Panel](panel.foxnodes.net)
+* [Discord](https://discord.gg/4pP8mBAnFs)
+* [Website](http://foxnodes.net) (parked domain)
+* [Dashboard](http://my.foxnodes.net)
+* [Panel](http://panel.foxnodes.net)
 
 ### History
 * kingtino announced they were going to hire individuals for Foxnodes
 * He got a vps from Peicer
-* Foxnodes got acquired by ZTX
+* Foxnodes got acquired by ZTX and became [Halex 15](../Hosts/halex.gg.md#halex-15)

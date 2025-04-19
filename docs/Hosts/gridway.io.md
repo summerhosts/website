@@ -11,3 +11,5 @@ This was a paid-for VM host that eventually got rebranded to Verse
 * [Website](https://gridway.io/)
 * [Console (offline)](http://console.gridway.io/)
 * Dashboard software: [Heliactyl](../Software/heliactyl.mdx), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
+
+![deploy page](https://summerhosts.github.io/media/gridway/deploy_page.png)
