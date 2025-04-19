@@ -5,7 +5,7 @@ tags:
   - Paid host
 ---
 
-This was a paid-for host that eventually died (it never got much attention)
+This was a paid-for VM host that eventually got rebranded to Verse
 
 ## Info
 * [Website](https://gridway.io/)

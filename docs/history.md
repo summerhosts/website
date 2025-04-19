@@ -14,9 +14,12 @@ Some of the text in this graph is a link
 graph TD;
   A[artix.cloud] --> H[halex.gg];
 
-  H --> PO[polarisnode.com];
   H --> CO[containeris.wtf];
   H --> GR[gridway.io];
+
+  H --> FO[foxnodes.net]
+  FO --> PO[polarisnode.com];
+  GR --> |Rebranded| VE[versevm.pro]
 
   PO --> PLC[plutonodes.com];
   PO --> Z;
@@ -35,9 +38,6 @@ graph TD;
   XEB --> N["nexiocloud"];
   XEE --> O["octant.sh"];
   O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"]
-
-  N --> WIP;
-  AL --> WIP;
 
   NE[netherite.io] --> D[died];
   CO --> D;
@@ -58,9 +58,7 @@ graph TD;
 *if you have any extra info regarding these please DM beveledcube on discord*
 - Criticnode
 - Pulsar
-- Verse
 - Lunx
 - Xerylin
 - Lantern
-- Foxnodes
 - Zen
