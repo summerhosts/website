@@ -5,8 +5,8 @@ description: Someone who makes "free" hosts.
 
 ## Overall information
 * Owner of the majority of the hosts mentioned here
-* Lives in the UK
-* Has a crib in Nottingham where some nodes for [XEH](../Hosts/xeh.sh.mdx) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../Hosts/altare.pro.mdx))
+* Lives in Nottingham
+* Has a place in Nottingham (presumably her moms place) where some nodes for [XEH](../Hosts/xeh.sh.mdx) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../Hosts/altare.pro.mdx))
 * Travels by train regularly
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
 * Owns [SRYDEN](../Companies/SRYDEN.md)
