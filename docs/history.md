@@ -28,7 +28,7 @@ graph TD;
 
   Z[ztx.gd] --> PA[palladin];
   Z --> BL[blare.host];
-  BL --> LU[lunix.host];
+  BL --> LU[lunx.host];
   LU -->|'he just gave it back' to Matt| TE[tegra.gg];
   TE --> X1[xeh.sh];
   X1 --> PL[plutonodes.net];
