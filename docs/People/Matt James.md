@@ -17,6 +17,7 @@ description: Someone who makes "free" hosts.
 ### In other places
 * `mark brown`
 * `badsk`
+* `King Tino`
 * `atqr1` (telegram)
 * `Matt James Garcia Iwayan Taglinao the Third`
 
@@ -51,6 +52,8 @@ The following section is formatted like this:
   * `Dr. Lu-Fee`
 * `araratxt` [ 1049816501567373383 ]
   * `ararat`
+* `2tqr` [ 1173194704003805248 ]
+  * `KingTino`
 
 ## Websites
 

@@ -33,7 +33,8 @@ graph TD;
   TE --> X1[xeh.sh];
   X1 --> PL[plutonodes.net];
   PL --> FR[frac.gg];
-  FR --> SY[synthoptic.io]
+  FR --> SY[synthoptic.io];
+  SY -->|Sold to Landon West| BE[betterhost.pro];
   SY --> XEE["xeh.sh (ether)"];
   XEE -->|Buyers were scammed by ether, allegedly| XEB["xeh.sh (scammed buyers own this)"];
 
