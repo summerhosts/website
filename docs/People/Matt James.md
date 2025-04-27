@@ -31,7 +31,7 @@ The following section is formatted like this:
 
 :::
 
-### In Discord:
+### In Discord
 * `twochamberedcokehead` [ 1199789031320465448 ]
   * `eth²`
 * `etherxr` [ 287810414094450699 ]

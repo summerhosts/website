@@ -1,8 +1,6 @@
 ---
 title: Nexio Cloud
-tags:
-  - Free host
-  - Paid host
+description: The host that came after the buyers of XEH got scammed
 ---
 
 ## Info

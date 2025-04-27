@@ -1,6 +1,7 @@
 ---
 title: Halex
 sidebar_label: halex.gg
+description: Halex 14/15 were free hosts owned by matt
 tags:
   - Free host
 ---

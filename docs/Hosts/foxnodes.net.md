@@ -1,6 +1,7 @@
 ---
 title: Foxnodes
 sidebar_label: foxnodes.net
+description: Owned by kingtino, got acquired by ZTX
 tags:
   - Free host
 ---

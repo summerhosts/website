@@ -8,7 +8,7 @@ description: Girl who does hosting and anarchy stuff. Open the page for some mor
 * Owner of `d2s9.org`
 
 ## Discord
-ceoofyt [ 791894874223280148 ] 
+`ceoofyt` [ 791894874223280148 ] 
 
 ## Websites
 * https://ceoofyt.carrd.co/

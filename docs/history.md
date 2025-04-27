@@ -12,7 +12,8 @@ Some of the text in this graph is a link
 
 ```mermaid
 graph TD;
-  A[artix.cloud] --> H14[halex.gg 14];
+  LA[lantern.pw] --> A[artix.cloud];
+  A --> H14[halex.gg 14];
 
   H14 --> CO[containeris.wtf];
   H14 --> GR[gridway.io];
@@ -26,11 +27,14 @@ graph TD;
   PO --> PLC[plutonodes.com];
   PO --> Z;
 
-  Z[ztx.gd] --> PA[palladin];
-  Z --> BL[blare.host];
-  BL --> LU[lunx.host];
-  LU -->|'he just gave it back' to Matt| TE[tegra.gg];
+  Z[ztx.gd] --> PA[paladin];
+  PA --> ZEN[zenhosting.org]
+  Z -->|Oliver bought it| BL[blare.host];
+  BL -->|Matt bought it back from oliver| Z2[ZTX];
+  Z2 --> LU;
+  LU[lunx.host] -->|'he just gave it back' to Matt| TE[tegra.gg];
   TE --> X1[xeh.sh];
+  X1 --> NO[northvm];
   X1 --> PL[plutonodes.net];
   PL --> FR[frac.gg];
   FR --> SY[synthoptic.io];
@@ -59,6 +63,7 @@ graph TD;
   click TE href "/Hosts/tegra.gg";
   click O href "/Hosts/octant.sh";
   click N href "/Hosts/nexiocloud";
+  click NO href "/Hosts/northvm.net";
   click AL href "/Hosts/altare.pro";
 ```
 
@@ -67,5 +72,3 @@ graph TD;
 - Criticnode
 - Pulsar
 - Xerylin
-- Lantern
-- Zen

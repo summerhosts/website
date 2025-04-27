@@ -1,6 +1,7 @@
 ---
 title: Polarisnode
 sidebar_label: polarisnode.com
+description: Free host owned by SRYDEN US Digital Services LLC
 tags:
   - Free host
 ---
