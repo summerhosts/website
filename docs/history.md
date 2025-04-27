@@ -29,6 +29,7 @@ graph TD;
 
   Z[ztx.gd] --> PA[paladin];
   PA --> ZEN[zenhosting.org]
+
   Z -->|Oliver bought it| BL[blare.host];
   BL -->|Matt bought it back from oliver| Z2[ZTX];
   Z2 --> LU;
@@ -47,7 +48,7 @@ graph TD;
   O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"]
 
   NE[netherite.io] --> D[died];
-  CO --> D;
+  ZEN --> D;
 
 
   click PO href "/Hosts/polarisnode.com";
