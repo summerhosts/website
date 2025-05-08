@@ -43,8 +43,21 @@ const config: Config = {
     {
       src: "https://cloud.umami.is/script.js",
       defer: true,
-      "data-website-id":"40565f17-c78c-4d05-8db6-7cf7b772aa64"
+      "data-website-id": "40565f17-c78c-4d05-8db6-7cf7b772aa64"
     }
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 80,
+        max: 1030,
+        min: 640,
+        steps: 2,
+        disableInDev: false,
+      },
+    ],
   ],
 
   presets: [
@@ -73,7 +86,7 @@ const config: Config = {
 
   themeConfig: {
     image: 'icons/favicon.svg',
-    metadata:[
+    metadata: [
       { name: "google-site-verification", content: "3pfuaKGpuUOYiuQ74Uj34hLx8i5W32MM6C-deolbYUs" }
     ],
     navbar: {
