@@ -45,7 +45,8 @@ graph TD;
 
   XEB --> N["nexiocloud"];
   XEE --> O["octant.sh"];
-  O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"]
+  O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"];
+  AL --> MA["Mantle"];
 
   NE[netherite.io] --> D[died];
   ZEN --> D;
@@ -66,6 +67,7 @@ graph TD;
   click N href "/Hosts/nexiocloud";
   click NO href "/Hosts/northvm.net";
   click AL href "/Hosts/altare.pro";
+  click MA href "/Hosts/mantle";
 ```
 
 ### Hosts that we know existed, thats it
