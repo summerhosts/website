@@ -64,7 +64,7 @@ graph TD;
   click VE href "/Hosts/gridway.io";
 
   click TE href "/Hosts/tegra.gg";
-  click O href "/Hosts/octant.sh";
+  click O href "/Hosts/octant.gg";
   click N href "/Hosts/nexiocloud";
   click NO href "/Hosts/northvm.net";
   click AL href "/Hosts/altare.pro";
