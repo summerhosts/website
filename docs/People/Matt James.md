@@ -69,6 +69,8 @@ The majority if not all pages in this section have been archived on [archive.org
 * [Simpler blog](https://atqr.pages.dev/) (with these pages [**1**](https://atqr.pages.dev/27-02-2025) [**2**](https://atqr.pages.dev/statement) that are not linked anywere)
 * [Matts picture in ASCII characters](https://z1.software/)
 * [ghost.io site](https://ether-1.ghost.io/)
+* [hPanel](https://github.com/h-panel)
+* [Heliactyl Archive](https://github.com/Heliactyl-Archive)
 
 ## Music Albums
 ### lowestoft (unreleased)
