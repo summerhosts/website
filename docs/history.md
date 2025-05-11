@@ -44,8 +44,9 @@ graph TD;
   XEE -->|Buyers were scammed by ether, allegedly| XEB["xeh.sh (scammed buyers own this)"];
 
   XEB --> N["nexiocloud"];
-  XEE --> O["octant.sh"];
-  O -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"];
+  XEE --> OSH["octant.sh"];
+  OSH -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"];
+  OSH -->|The domain was changed because Ether hijacked it| OGG["octant.gg"];
   AL --> MA["Mantle"];
 
   NE[netherite.io] --> D[died];
