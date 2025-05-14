@@ -47,7 +47,7 @@ graph TD;
   XEE --> OSH["octant.sh"];
   OSH -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"];
   OSH -->|The domain was changed because Ether hijacked it| OGG["octant.gg"];
-  AL --> MA["Mantle"];
+  AL --> MA["mantle.lat"];
 
   NE[netherite.io] --> D[died];
   ZEN --> D;
@@ -68,7 +68,7 @@ graph TD;
   click N href "/Hosts/nexiocloud";
   click NO href "/Hosts/northvm.net";
   click AL href "/Hosts/altare.pro";
-  click MA href "/Hosts/mantle";
+  click MA href "/Hosts/mantle.lat";
 ```
 
 ### Hosts that we know existed, thats it
