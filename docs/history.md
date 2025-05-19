@@ -12,6 +12,10 @@ Some of the text in this graph is a link
 
 ```mermaid
 graph TD;
+  PY[pylex] --> CRIT;
+  CRIT[criticnode] --> THAL[thala];
+  THAL --> PU;
+  PU[pulsar] --> LA;
   LA[lantern.pw] --> A[artix.cloud];
   A --> H14[halex.gg 14];
 
@@ -24,10 +28,10 @@ graph TD;
   GR --> |Rebranded| VE[versevm.pro]
   H15 --> VE;
 
-  PO --> PLC[plutonodes.com];
-  PO --> Z;
+  PO --> FLUX[fluxnodes.net]
+  FLUX--> Z[ztx.gd];
 
-  Z[ztx.gd] --> PA[paladin];
+  Z --> PA[paladin];
   PA --> ZEN[zenhosting.org]
 
   Z -->|Oliver bought it| BL[blare.host];
@@ -37,6 +41,7 @@ graph TD;
   TE --> X1[xeh.sh];
   X1 --> NO[northvm];
   X1 --> PL[plutonodes.net];
+  PL -->|Dennis (previews) kept this host running (it started with the original plutonodes the 1st of may 2022)| PLC[plutonodes.com];
   PL --> FR[frac.gg];
   FR --> SY[synthoptic.io];
   SY -->|Sold to Landon West| BE[betterhost.pro];
@@ -70,9 +75,3 @@ graph TD;
   click AL href "/Hosts/altare.pro";
   click MA href "/Hosts/mantle.lat";
 ```
-
-### Hosts that we know existed, thats it
-*if you have any extra info regarding these please DM beveledcube on discord*
-- Criticnode
-- Pulsar
-- Xerylin
