@@ -41,7 +41,7 @@ graph TD;
   TE --> X1[xeh.sh];
   X1 --> NO[northvm];
   X1 --> PL[plutonodes.net];
-  PL -->|Dennis (previews) kept this host running (it started with the original plutonodes the 1st of may 2022)| PLC[plutonodes.com];
+  PL -->|Dennis, AKA previews, kept this host running. It started with the original plutonodes the 1st of may 2022| PLC[plutonodes.com];
   PL --> FR[frac.gg];
   FR --> SY[synthoptic.io];
   SY -->|Sold to Landon West| BE[betterhost.pro];
