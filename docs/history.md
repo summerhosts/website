@@ -51,7 +51,7 @@ graph TD;
   XEB --> N["nexiocloud"];
   XEE --> OSH["octant.sh"];
   OSH -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"];
-  OSH -->|The domain was changed because Ether hijacked it| OGG["octant.gg"];
+  OSH -->|The domain was changed because Sam hijacked it| OGG["octant.gg"];
   AL --> MA["mantle.lat"];
 
   NE[netherite.io] --> D[died];
