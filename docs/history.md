@@ -12,7 +12,7 @@ Some of the text in this graph is a link
 
 ```mermaid
 graph TD;
-  PY[pylex] --> CRIT;
+  PY[pylexnodes.net] --> CRIT;
   CRIT[criticnode] --> THAL[thala];
   THAL --> PU;
   PU[pulsar] --> LA;
@@ -57,6 +57,8 @@ graph TD;
   NE[netherite.io] --> D[died];
   ZEN --> D;
 
+
+  click PY href "/Hosts/pylexnodes.net";
 
   click PO href "/Hosts/polarisnode.com";
   click XEE href "/Hosts/xeh.sh";
