@@ -4,6 +4,7 @@ description: An overview on the history of summer hosts.
 sidebar_position: 2
 ---
 
+## Hosts
 :::info
 
 Some of the text in this graph is a link
@@ -53,10 +54,10 @@ graph TD;
   OSH -->|Octant was handed over to Sabrina Goom who kept it running| AL["altare.pro"];
   OSH -->|The domain was changed because Sam hijacked it| OGG["octant.gg"];
   AL --> MA["mantle.lat"];
+  AL -->|Sryzen was active before mantle got even started| SRZ["sryzen.cloud"]
 
   NE[netherite.io] --> D[died];
   ZEN --> D;
-
 
   click PY href "/Hosts/pylexnodes.net";
 
@@ -76,4 +77,17 @@ graph TD;
   click NO href "/Hosts/northvm.net";
   click AL href "/Hosts/altare.pro";
   click MA href "/Hosts/mantle.lat";
+  click MA href "/Hosts/mantle.lat";
 ```
+
+## Legal entities
+```mermaid
+graph TD;
+  SRYD["SRYDEN"];
+  OCT["Octant];
+  MANT["Mantle Industries LLC"] --> METR["Metropolis"]
+
+  click SRYD href "/companies/SRYDEN";
+  click OCT href "/companies/Octant";
+  click MANT href "/companies/Mantle";
+  click METR href "/companies/Metropolis";

@@ -3,8 +3,11 @@ title: SRYDEN
 description: History of SRYDEN.
 ---
 
-* Has a [YoTube channel](https://www.youtube.com/@SRYDEN)
 * Operated by Ether
+* Shut down
+* [Website](https://www.sryden.com/)
+* [Website archives](https://web.archive.org/web/*/sryden.com)
+* Has a [YoTube channel](https://www.youtube.com/@SRYDEN)
 * Owns [Halex 14](../Hosts/halex.gg.md)
 * Owns [gridway](https://gridway.io/)
 * Made [Heliactyl](../Software/heliactyl.mdx)
