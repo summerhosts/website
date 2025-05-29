@@ -77,7 +77,7 @@ graph TD;
   click NO href "/Hosts/northvm.net";
   click AL href "/Hosts/altare.pro";
   click MA href "/Hosts/mantle.lat";
-  click MA href "/Hosts/mantle.lat";
+  click SRZ href "/Hosts/sryzen.cloud";
 ```
 
 ## Legal entities
@@ -85,9 +85,10 @@ graph TD;
 graph TD;
   SRYD["SRYDEN"];
   OCT["Octant];
-  MANT["Mantle Industries LLC"] --> METR["Metropolis"]
+  MANT["Mantle Industries LLC"] --> METR["Metropolis"];
 
   click SRYD href "/companies/SRYDEN";
   click OCT href "/companies/Octant";
   click MANT href "/companies/Mantle";
   click METR href "/companies/Metropolis";
+```
