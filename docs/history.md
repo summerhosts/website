@@ -84,7 +84,7 @@ graph TD;
 ```mermaid
 graph TD;
   SRYD["SRYDEN"];
-  OCT["Octant];
+  OCT["Octant"];
   MANT["Mantle Industries LLC"] --> METR["Metropolis"];
 
   click SRYD href "/companies/SRYDEN";
