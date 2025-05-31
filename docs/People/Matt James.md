@@ -11,7 +11,7 @@ description: Someone who makes "free" hosts.
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
 * Owns [SRYDEN](../Companies/SRYDEN.md)
 * Previous owner of [Octant](../Companies/Octant.md)
-* Developer of [Skyport](https://skyport.dev/) [Argon](../Software/argon.mdx) [Heliactyl](../Software/heliactyl.mdx) and [Radar](../Software/radar.mdx)
+* Developer of [Skyport](https://skyport.dev/) [Argon](../Software/argon.mdx) [Heliactyl](../Software/heliactyl.mdx) [Palladium](../Software/palladium.md) [Radar](../Software/radar.mdx) [Watchtower](../Software/watchtower.md) [Cryogenic](../Software/cryogenic.md) [Terra](../Software/terra.md)
 
 ## Also known as
 ### In other places
@@ -20,6 +20,7 @@ description: Someone who makes "free" hosts.
 * `King Tino`
 * `atqr1` (telegram)
 * `Matt James Garcia Iwayan Taglinao the Third`
+* `Etherealized`
 
 :::info
 
