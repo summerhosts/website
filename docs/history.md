@@ -12,8 +12,9 @@ Some of the text in this graph is a link
 :::
 
 ```mermaid
-graph TD;
-  PY[pylexnodes.net] --> CRIT;
+flowchart TD;
+  PY[pylexnodes.net]
+  PY --> CRIT;
   CRIT[criticnode] --> THAL[thala];
   THAL --> PU;
   PU[pulsar] --> LA;
@@ -55,6 +56,7 @@ graph TD;
   OSH -->|The domain was changed because Sam hijacked it| OGG["octant.gg"];
   AL --> MA["mantle.lat"];
   AL -->|Sryzen was active before mantle got even started| SRZ["sryzen.cloud"]
+  SRZ -->|Ether resigned from sryzen because their ideas didnt align| MA;
 
   NE[netherite.io] --> D[died];
   ZEN --> D;
@@ -72,7 +74,8 @@ graph TD;
   click VE href "/Hosts/gridway.io";
 
   click TE href "/Hosts/tegra.gg";
-  click O href "/Hosts/octant.gg";
+  click OSH href "/Hosts/octant.gg";
+  click OGG href "/Hosts/octant.gg";
   click N href "/Hosts/nexiocloud";
   click NO href "/Hosts/northvm.net";
   click AL href "/Hosts/altare.pro";
@@ -81,13 +84,27 @@ graph TD;
 ```
 
 ## Legal entities
+### History
+```mermaid
+timeline
+  2025 : Mantle Industries LLC : Metropolis  
+```
+
+### Structure
 ```mermaid
 graph TD;
   SRYD["SRYDEN"];
   OCT["Octant"];
-  MANT["Mantle Industries LLC"] --> METR["Metropolis"];
+  ZTL["ZTL"];
+  MANT["Mantle Industries LLC"];
+
+  subgraph Managed by Metropolis
+    MANT;
+    ZTL;
+  end
 
   click SRYD href "/companies/SRYDEN";
+  click ZTL href "/companies/ztl";
   click OCT href "/companies/Octant";
   click MANT href "/companies/Mantle";
   click METR href "/companies/Metropolis";
