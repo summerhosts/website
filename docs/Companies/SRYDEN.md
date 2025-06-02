@@ -8,8 +8,8 @@ description: History of SRYDEN.
 * [Website](https://www.sryden.com/)
 * [Website archives](https://web.archive.org/web/*/sryden.com)
 * Has a [YoTube channel](https://www.youtube.com/@SRYDEN)
-* Owns [Halex 14](../Hosts/halex.gg.md)
-* Owns [gridway](https://gridway.io/)
+* Owned [Halex 14](../Hosts/halex.gg.md)
+* Owned [gridway](https://gridway.io/)
 * Made [Heliactyl](../Software/heliactyl.mdx)
 * Hidden videos
   * [The Best FREE 24/7 Minecraft Server Hosting in 2024 - Halex.gg](https://www.youtube.com/watch?v=Pyir_RsiaFw)
