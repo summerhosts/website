@@ -24,5 +24,3 @@ Sryden has a history of experiencing significant downtimes, which may be linked 
 In addition, there have been complaints about Sryden selling VPS services that have been abused and terminated due to misuse by some users. As a result, legitimate users were also impacted and faced service suspension without any refunds.
 
 Overall, it is advisable to exercise caution when dealing with Sryden due to the aforementioned concerns
-
-*Thanks to [Ethan](https://ethanxt.pages.dev/) for providing this information*
