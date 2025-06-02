@@ -151,6 +151,7 @@ graph TD;
   OCT["Octant"];
   ZTL["ZTL"];
   MANT["Mantle Industries LLC"];
+  PLT["Plutonodes]
 
   subgraph Dissolved/shut down
     SRYD
@@ -159,6 +160,14 @@ graph TD;
   subgraph Managed by Metropolis
     MANT;
     ZTL;
+  end
+
+  subgraph Owned by Z1
+    XEH;
+  end
+
+  subgraph Owned by Ever
+    PLT;
   end
 
   click SRYD href "/companies/SRYDEN";
