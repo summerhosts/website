@@ -151,7 +151,7 @@ graph TD;
   OCT["Octant"];
   ZTL["ZTL"];
   MANT["Mantle Industries LLC"];
-  PLT["Plutonodes]
+  PLT["Plutonodes"]
 
   subgraph Dissolved/shut down
     SRYD
