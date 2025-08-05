@@ -80,6 +80,9 @@ flowchart TD;
   AL["altare.pro"]
   click AL href "/Hosts/altare.pro";
 
+  AL2["altare.cv"]
+  click AL2 href "/Hosts/altare.cv";
+
   MA["mantle.lat"];
   click MA href "/Hosts/mantle.lat";
 
@@ -132,6 +135,7 @@ flowchart TD;
   OSH -->|The domain was changed because Sam hijacked it| OGG;
   AL -->|Sryzen was active before mantle got even started| SRZ;
   SRZ -->|Ether resigned from sryzen because their ideas didnt align| MA;
+  MA -->|Mantle never launched| ALT2;
 
   NE --> D;
   ZEN --> D;
