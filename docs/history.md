@@ -80,7 +80,7 @@ flowchart TD;
   AL["altare.pro"]
   click AL href "/Hosts/altare.pro";
 
-  AL2["altare.cv"]
+  ALT2["altare.cv"]
   click AL2 href "/Hosts/altare.cv";
 
   MA["mantle.lat"];
@@ -145,7 +145,7 @@ flowchart TD;
 ### History
 ```mermaid
 timeline
-  2025 : Mantle Industries LLC : Metropolis  
+  2025 : Mantle Industries LLC : Metropolis : Altare Inc.
 ```
 
 ### Structure
