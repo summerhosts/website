@@ -77,11 +77,11 @@ flowchart TD;
   NO[northvm];
   click NO href "/Hosts/northvm.net";
 
-  AL["altare.pro"]
+  AL["altare.pro"];
   click AL href "/Hosts/altare.pro";
 
-  ALT2["altare.cv"]
-  click AL2 href "/Hosts/altare.cv";
+  ALT2["altare.cv"];
+  click ALT2 href "/Hosts/altare.cv";
 
   MA["mantle.lat"];
   click MA href "/Hosts/mantle.lat";
