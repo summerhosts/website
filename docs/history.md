@@ -83,6 +83,9 @@ flowchart TD;
   ALT2["altare.cv"];
   click ALT2 href "/Hosts/altare.cv";
 
+  ALT3["altr.cc"];
+  click ALT3 href "/Hosts/altare.cv";
+
   MA["mantle.lat"];
   click MA href "/Hosts/mantle.lat";
 
@@ -136,6 +139,7 @@ flowchart TD;
   AL -->|Sryzen was active before mantle got even started| SRZ;
   SRZ -->|Ether resigned from sryzen because their ideas didnt align| MA;
   MA -->|Mantle never launched| ALT2;
+  ALT2 -->|They decided to change the domain for Altare v6| ALT3;
 
   NE --> D;
   ZEN --> D;
