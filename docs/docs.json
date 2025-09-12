@@ -6,7 +6,7 @@
     "primary": "#ff0000"
   },
   "navigation": {
-      "tabs": [
+    "tabs": [
       {
         "tab": "Documentation",
         "pages": [
@@ -23,5 +23,6 @@
           "icon": "github"
         }
       ]
+    }
   }
 }
