@@ -1,12 +1,12 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Your Docs",
+  "name": "Summerhosts",
   "colors": {
     "primary": "#ff0000"
   },
   "navigation": {
-        "tabs": [
+      "tabs": [
       {
         "tab": "Documentation",
         "pages": [
@@ -20,6 +20,5 @@
           "anchor": "GitHub",
           "href": "https://github.com/summerhosts/website"
         }
-      ]
   }
 }
