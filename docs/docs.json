@@ -16,9 +16,12 @@
       }
     ],
     "global": {
+      "anchors": [
         {
           "anchor": "GitHub",
-          "href": "https://github.com/summerhosts/website"
+          "href": "https://github.com/summerhosts/website",
+          "icon": "github"
         }
+      ]
   }
 }
