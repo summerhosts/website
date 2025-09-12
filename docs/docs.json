@@ -10,9 +10,15 @@
       {
         "tab": "Documentation",
         "pages": [
-          "introduction"
+          "introduction",
+          "history"
         ],
-        "groups": []
+        "groups": [
+          "Companies",
+          "Hosts",
+          "People",
+          "Software"
+        ]
       }
     ],
     "global": {
