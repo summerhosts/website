@@ -13,12 +13,7 @@
           "introduction",
           "history"
         ],
-        "groups": [
-          "Companies",
-          "Hosts",
-          "People",
-          "Software"
-        ]
+        "groups": []
       }
     ],
     "global": {
