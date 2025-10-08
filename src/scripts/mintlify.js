@@ -28,7 +28,7 @@ function exploreGroup(dir) {
         pages: exploreGroup(path.join(dir, f.name)),
       });
     } else if (f.name.endsWith(".md") || f.name.endsWith(".mdx"))
-      pages.push(removeExt(f.name));
+      pages.push(path.join(dir, removeExt(f.name)));
   }
 
   return pages;
