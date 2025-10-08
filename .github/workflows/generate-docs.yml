@@ -1,0 +1,34 @@
+name: Generate docs and deploy
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build-and-generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 24
+
+      - name: Generate docs.json
+        run: npm run generate-docs
+
+      - name: Commit generated docs.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/docs.json
+          git diff --quiet && echo "No changes to commit" || git commit -m "chore: build docs.json"
+          git push
