@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "generate-docs":"node src/scripts/mintlify.js",
+    "generate-docs": "node src/scripts/mintlify.js",
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
@@ -16,16 +16,18 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/core": "^3.9.1",
     "@docusaurus/plugin-ideal-image": "^3.7.0",
-    "@docusaurus/preset-classic": "^3.7.0",
-    "@docusaurus/theme-mermaid": "^3.7.0",
-    "@mdx-js/react": "^3.1.0",
+    "@docusaurus/preset-classic": "^3.9.1",
+    "@docusaurus/theme-mermaid": "^3.9.1",
+    "@mdx-js/react": "^3.1.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
+    "docusaurus": "^1.14.7",
     "prism-react-renderer": "^2.4.1",
+    "reac": "^0.0.0",
     "react": "^19.1.0",
-    "react-dom": "^19.1.0"
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.7.0",

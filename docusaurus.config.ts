@@ -1,55 +1,55 @@
-import { themes as prismThemes } from 'prism-react-renderer';
-import type { Config } from '@docusaurus/types';
-import type * as Preset from '@docusaurus/preset-classic';
+import { themes as prismThemes } from "prism-react-renderer";
+import type { Config } from "@docusaurus/types";
+import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Summer Hosts',
-  tagline: 'The history of ephemeral hosting services.',
-  favicon: 'icons/favicon.svg',
+  title: "Summer Hosts",
+  tagline: "The history of ephemeral hosting services.",
+  favicon: "icons/favicon.svg",
 
   // Set the production url of your site here
-  url: 'https://summerhosts.netlify.app',
+  url: "https://summerhosts.netlify.app",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'summerhosts', // Usually your GitHub org/user name.
-  projectName: 'summerhosts-website', // Usually your repo name.
+  organizationName: "summerhosts", // Usually your GitHub org/user name.
+  projectName: "summerhosts-website", // Usually your repo name.
 
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: "throw",
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: "en",
+    locales: ["en"],
   },
 
   markdown: {
-    mermaid: true
+    mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
   },
 
-  themes: [
-    '@docusaurus/theme-mermaid'
-  ],
+  themes: ["@docusaurus/theme-mermaid"],
 
   scripts: [
     {
       src: "https://cloud.umami.is/script.js",
       defer: true,
-      "data-website-id": "40565f17-c78c-4d05-8db6-7cf7b772aa64"
-    }
+      "data-website-id": "40565f17-c78c-4d05-8db6-7cf7b772aa64",
+    },
   ],
 
   plugins: [
     [
-      '@docusaurus/plugin-ideal-image',
+      "@docusaurus/plugin-ideal-image",
       {
         quality: 80,
         max: 1030,
@@ -62,12 +62,12 @@ const config: Config = {
 
   presets: [
     [
-      'classic',
+      "classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         docs: {
-          sidebarPath: './sidebars.ts',
-          routeBasePath: '/',
+          sidebarPath: "./sidebars.ts",
+          routeBasePath: "/",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: ({ locale, docPath }) => {
@@ -78,33 +78,36 @@ const config: Config = {
         },
         blog: false,
         theme: {
-          customCss: './src/css/custom.css',
+          customCss: "./src/css/custom.css",
         },
       } satisfies Preset.Options,
     ],
   ],
 
   themeConfig: {
-    image: 'icons/favicon.svg',
+    image: "icons/favicon.svg",
     metadata: [
-      { name: "google-site-verification", content: "3pfuaKGpuUOYiuQ74Uj34hLx8i5W32MM6C-deolbYUs" }
+      {
+        name: "google-site-verification",
+        content: "3pfuaKGpuUOYiuQ74Uj34hLx8i5W32MM6C-deolbYUs",
+      },
     ],
     navbar: {
-      title: 'Summer Hosts',
+      title: "Summer Hosts",
       logo: {
-        alt: 'Site logo',
-        src: 'icons/favicon.svg',
+        alt: "Site logo",
+        src: "icons/favicon.svg",
       },
       items: [
         {
-          href: 'https://github.com/summerhosts/website',
-          label: 'GitHub',
-          position: 'right',
+          href: "https://github.com/summerhosts/website",
+          label: "GitHub",
+          position: "right",
         },
       ],
     },
     footer: {
-      style: 'dark',
+      style: "dark",
       links: [],
       copyright: `Copyright © ${new Date().getFullYear()} Summerh Hosts, Inc. Built with Docusaurus.`,
     },

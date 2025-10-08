@@ -3,13 +3,8 @@ const path = require("node:path");
 
 const docsPath = "docs";
 let navigation = {
-  pages:[],
-  tabs: [
-    {
-      tab: "Documentation",
-      groups: [],
-    },
-  ],
+  pages: [],
+  groups: [],
   global: {
     anchors: [
       {
@@ -23,7 +18,7 @@ let navigation = {
 
 for (const f of fs.readdirSync(docsPath, { withFileTypes: true })) {
   if (f.isDirectory()) {
-    navigation.tabs[0].groups.push({
+    navigation.groups.push({
       group: path.basename(f.name),
       pages: exploreGroup(path.join(docsPath, f.name)),
     });
