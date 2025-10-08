@@ -14,7 +14,7 @@ for (const f of fs.readdirSync(docsPath, { withFileTypes: true })) {
       group: path.basename(f.name),
       pages: exploreGroup(path.join(docsPath, f.name)),
     });
-  } else docsTab.pages.push(f.name);
+  } else docsTab.pages.push(removeExt(f.name));
 }
 
 function exploreGroup(dir) {
