@@ -17,56 +17,56 @@
           {
             "group": "Companies",
             "pages": [
-              "docs/Companies/Mantle",
-              "docs/Companies/Metropolis",
-              "docs/Companies/Octant",
-              "docs/Companies/SRYDEN",
-              "docs/Companies/ztl"
+              "Companies/Mantle",
+              "Companies/Metropolis",
+              "Companies/Octant",
+              "Companies/SRYDEN",
+              "Companies/ztl"
             ]
           },
           {
             "group": "Hosts",
             "pages": [
-              "docs/Hosts/altare.cv",
-              "docs/Hosts/altare.pro",
-              "docs/Hosts/baklava.cloud",
-              "docs/Hosts/criticnode.com",
-              "docs/Hosts/foxnodes.net",
-              "docs/Hosts/gridway.io",
-              "docs/Hosts/halex.gg",
-              "docs/Hosts/mantle.lat",
-              "docs/Hosts/nexiocloud",
-              "docs/Hosts/northvm.net",
-              "docs/Hosts/octant.gg",
-              "docs/Hosts/polarisnode.com",
-              "docs/Hosts/pylexnodes.net",
-              "docs/Hosts/sryzen.cloud",
-              "docs/Hosts/tegra.gg",
-              "docs/Hosts/xeh.sh"
+              "Hosts/altare.cv",
+              "Hosts/altare.pro",
+              "Hosts/baklava.cloud",
+              "Hosts/criticnode.com",
+              "Hosts/foxnodes.net",
+              "Hosts/gridway.io",
+              "Hosts/halex.gg",
+              "Hosts/mantle.lat",
+              "Hosts/nexiocloud",
+              "Hosts/northvm.net",
+              "Hosts/octant.gg",
+              "Hosts/polarisnode.com",
+              "Hosts/pylexnodes.net",
+              "Hosts/sryzen.cloud",
+              "Hosts/tegra.gg",
+              "Hosts/xeh.sh"
             ]
           },
           {
             "group": "People",
             "pages": [
-              "docs/People/CEO",
-              "docs/People/Chelsea",
-              "docs/People/Ciph",
-              "docs/People/Landon West",
-              "docs/People/Lewis Goom",
-              "docs/People/Matt James",
-              "docs/People/Oliver Nielsen"
+              "People/CEO",
+              "People/Chelsea",
+              "People/Ciph",
+              "People/Landon West",
+              "People/Lewis Goom",
+              "People/Matt James",
+              "People/Oliver Nielsen"
             ]
           },
           {
             "group": "Software",
             "pages": [
-              "docs/Software/cryogenic",
-              "docs/Software/heliactyl",
-              "docs/Software/palladium",
-              "docs/Software/radar",
-              "docs/Software/tecton",
-              "docs/Software/terra",
-              "docs/Software/watchtower"
+              "Software/cryogenic",
+              "Software/heliactyl",
+              "Software/palladium",
+              "Software/radar",
+              "Software/tecton",
+              "Software/terra",
+              "Software/watchtower"
             ]
           }
         ]
