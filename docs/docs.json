@@ -25,8 +25,7 @@
       {
         "group": "Hosts",
         "pages": [
-          "Hosts/altare.cv",
-          "Hosts/altare.pro",
+          "Hosts/altare",
           "Hosts/baklava.cloud",
           "Hosts/criticnode.com",
           "Hosts/foxnodes.net",
