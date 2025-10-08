@@ -3,6 +3,7 @@ const path = require("node:path");
 
 const docsPath = "docs";
 let navigation = {
+  pages:[],
   tabs: [
     {
       tab: "Documentation",
