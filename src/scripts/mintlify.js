@@ -14,7 +14,8 @@ for (const f of fs.readdirSync(docsPath, { withFileTypes: true })) {
       group: path.basename(f.name),
       pages: exploreGroup(path.join(docsPath, f.name)),
     });
-  } else docsTab.pages.push(removeExt(f.name));
+  } else if (f.name.endsWith(".md") || f.name.endsWith(".mdx"))
+    docsTab.pages.push(removeExt(f.name));
 }
 
 function exploreGroup(dir) {
@@ -26,7 +27,8 @@ function exploreGroup(dir) {
         group: path.basename(f.name),
         pages: exploreGroup(path.join(dir, f.name)),
       });
-    } else pages.push(removeExt(f.name));
+    } else if (f.name.endsWith(".md") || f.name.endsWith(".mdx"))
+      pages.push(removeExt(f.name));
   }
 
   return pages;
