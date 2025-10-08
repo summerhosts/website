@@ -2,20 +2,32 @@ const fs = require("node:fs");
 const path = require("node:path");
 
 const docsPath = "docs";
-let docsTab = {
-  tab: "Documentation",
-  pages: [],
-  groups: [],
+let navigation = {
+  tabs: [
+    {
+      tab: "Documentation",
+      groups: [],
+    },
+  ],
+  global: {
+    anchors: [
+      {
+        anchor: "GitHub",
+        href: "https://github.com/summerhosts/website",
+        icon: "github",
+      },
+    ],
+  },
 };
 
 for (const f of fs.readdirSync(docsPath, { withFileTypes: true })) {
   if (f.isDirectory()) {
-    docsTab.groups.push({
+    navigation.tabs[0].groups.push({
       group: path.basename(f.name),
       pages: exploreGroup(path.join(docsPath, f.name)),
     });
   } else if (f.name.endsWith(".md") || f.name.endsWith(".mdx"))
-    docsTab.pages.push(removeExt(f.name));
+    navigation.pages.push(removeExt(f.name));
 }
 
 function exploreGroup(dir) {
@@ -28,7 +40,7 @@ function exploreGroup(dir) {
         pages: exploreGroup(path.join(dir, f.name)),
       });
     } else if (f.name.endsWith(".md") || f.name.endsWith(".mdx"))
-      pages.push(path.relative(docsPath,path.join(dir, removeExt(f.name))));
+      pages.push(path.relative(docsPath, path.join(dir, removeExt(f.name))));
   }
 
   return pages;
@@ -47,21 +59,11 @@ fs.writeFileSync(
       $schema: "https://mintlify.com/docs.json",
       theme: "mint",
       name: "Summerhosts",
+      favicon: "https://summerhosts.netlify.app/icons/favicon.svg",
       colors: {
         primary: "#17d6cc",
       },
-      navigation: {
-        tabs: [docsTab],
-        global: {
-          anchors: [
-            {
-              anchor: "GitHub",
-              href: "https://github.com/summerhosts/website",
-              icon: "github",
-            },
-          ],
-        },
-      },
+      navigation,
     },
     null,
     2
