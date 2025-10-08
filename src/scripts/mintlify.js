@@ -1,16 +1,18 @@
 const fs = require("node:fs");
 const path = require("node:path");
+
+const docsPath = "docs";
 let docsTab = {
   tab: "Documentation",
   pages: [],
   groups: [],
 };
 
-for (const f of fs.readdirSync("../../docs", { withFileTypes: true })) {
+for (const f of fs.readdirSync(docsPath, { withFileTypes: true })) {
   if (f.isDirectory()) {
     docsTab.groups.push({
       group: path.basename(f.name),
-      pages: exploreGroup(path.join("../../docs", f.name)),
+      pages: exploreGroup(path.join(docsPath, f.name)),
     });
   } else docsTab.pages.push(f.name);
 }
@@ -37,7 +39,7 @@ function removeExt(name) {
 }
 
 fs.writeFileSync(
-  "../../docs/docs.json",
+  path.join(docsPath, "docs.json"),
   JSON.stringify(
     {
       $schema: "https://mintlify.com/docs.json",
