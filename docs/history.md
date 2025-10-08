@@ -143,7 +143,7 @@ flowchart TD;
   SRZ -->|Ether resigned from sryzen because their ideas didnt align| MA;
   MA -->|Mantle never launched| ALT3;
   ALT3 -->|They decided to change the domain for Altare v6| ALT6;
-  ALT7 --> ALT7;
+  ALT6 --> ALT7;
 
   NE --> D;
   ZEN --> D;
