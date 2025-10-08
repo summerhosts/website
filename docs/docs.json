@@ -2,17 +2,18 @@
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
   "name": "Summerhosts",
+  "favicon": "https://summerhosts.netlify.app/icons/favicon.svg",
   "colors": {
     "primary": "#17d6cc"
   },
   "navigation": {
+    "pages": [
+      "history",
+      "introduction"
+    ],
     "tabs": [
       {
         "tab": "Documentation",
-        "pages": [
-          "history",
-          "introduction"
-        ],
         "groups": [
           {
             "group": "Companies",
