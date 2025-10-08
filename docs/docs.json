@@ -17,56 +17,56 @@
           {
             "group": "Companies",
             "pages": [
-              "Mantle",
-              "Metropolis",
-              "Octant",
-              "SRYDEN",
-              "ztl"
+              "docs/Companies/Mantle",
+              "docs/Companies/Metropolis",
+              "docs/Companies/Octant",
+              "docs/Companies/SRYDEN",
+              "docs/Companies/ztl"
             ]
           },
           {
             "group": "Hosts",
             "pages": [
-              "altare.cv",
-              "altare.pro",
-              "baklava.cloud",
-              "criticnode.com",
-              "foxnodes.net",
-              "gridway.io",
-              "halex.gg",
-              "mantle.lat",
-              "nexiocloud",
-              "northvm.net",
-              "octant.gg",
-              "polarisnode.com",
-              "pylexnodes.net",
-              "sryzen.cloud",
-              "tegra.gg",
-              "xeh.sh"
+              "docs/Hosts/altare.cv",
+              "docs/Hosts/altare.pro",
+              "docs/Hosts/baklava.cloud",
+              "docs/Hosts/criticnode.com",
+              "docs/Hosts/foxnodes.net",
+              "docs/Hosts/gridway.io",
+              "docs/Hosts/halex.gg",
+              "docs/Hosts/mantle.lat",
+              "docs/Hosts/nexiocloud",
+              "docs/Hosts/northvm.net",
+              "docs/Hosts/octant.gg",
+              "docs/Hosts/polarisnode.com",
+              "docs/Hosts/pylexnodes.net",
+              "docs/Hosts/sryzen.cloud",
+              "docs/Hosts/tegra.gg",
+              "docs/Hosts/xeh.sh"
             ]
           },
           {
             "group": "People",
             "pages": [
-              "CEO",
-              "Chelsea",
-              "Ciph",
-              "Landon West",
-              "Lewis Goom",
-              "Matt James",
-              "Oliver Nielsen"
+              "docs/People/CEO",
+              "docs/People/Chelsea",
+              "docs/People/Ciph",
+              "docs/People/Landon West",
+              "docs/People/Lewis Goom",
+              "docs/People/Matt James",
+              "docs/People/Oliver Nielsen"
             ]
           },
           {
             "group": "Software",
             "pages": [
-              "cryogenic",
-              "heliactyl",
-              "palladium",
-              "radar",
-              "tecton",
-              "terra",
-              "watchtower"
+              "docs/Software/cryogenic",
+              "docs/Software/heliactyl",
+              "docs/Software/palladium",
+              "docs/Software/radar",
+              "docs/Software/tecton",
+              "docs/Software/terra",
+              "docs/Software/watchtower"
             ]
           }
         ]
