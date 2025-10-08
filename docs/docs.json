@@ -1,0 +1,85 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Summerhosts",
+  "colors": {
+    "primary": "#17d6cc"
+  },
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Documentation",
+        "pages": [
+          "history.md",
+          "introduction.md"
+        ],
+        "groups": [
+          {
+            "group": "Companies",
+            "pages": [
+              "Mantle",
+              "Metropolis",
+              "Octant",
+              "SRYDEN",
+              "ztl"
+            ]
+          },
+          {
+            "group": "Hosts",
+            "pages": [
+              "altare.cv",
+              "altare.pro",
+              "baklava.cloud",
+              "criticnode.com",
+              "foxnodes.net",
+              "gridway.io",
+              "halex.gg",
+              "mantle.lat",
+              "nexiocloud",
+              "northvm.net",
+              "octant.gg",
+              "polarisnode.com",
+              "pylexnodes.net",
+              "sryzen.cloud",
+              "tegra.gg",
+              "xeh.sh"
+            ]
+          },
+          {
+            "group": "People",
+            "pages": [
+              "CEO",
+              "Chelsea",
+              "Ciph",
+              "Landon West",
+              "Lewis Goom",
+              "Matt James",
+              "Oliver Nielsen"
+            ]
+          },
+          {
+            "group": "Software",
+            "pages": [
+              "cryogenic",
+              "heliactyl",
+              "palladium",
+              "radar",
+              "tecton",
+              "terra",
+              "watchtower"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "GitHub",
+          "href": "https://github.com/summerhosts/website",
+          "icon": "github"
+        }
+      ]
+    }
+  }
+}
