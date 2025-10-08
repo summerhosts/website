@@ -84,10 +84,10 @@ flowchart TD;
   click ALT3 href "/Hosts/altare#altare-3";
 
   ALT6["altr.cc"];
-  click ALT3 href "/Hosts/altare#altare-6";
+  click ALT6 href "/Hosts/altare#altare-6";
 
   ALT7["altr.cc"];
-  click ALT3 href "/Hosts/altare#altare-7";
+  click ALT/ href "/Hosts/altare#altare-7";
 
   MA["mantle.lat"];
   click MA href "/Hosts/mantle.lat";
