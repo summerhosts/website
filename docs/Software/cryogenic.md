@@ -1,7 +1,10 @@
 ---
 title: Cryogenic
-description: "Latest version: cryogenic@beta:1.0.1-palermo"
+description: "Replacement for Pterodactyl wings"
 ---
 
 ## Info
-* Latest version: `cryogenic@beta:1.0.1-palermo`
+* Latest version: cryogenic 15
+
+## Versions
+* `cryogenic@beta:1.0.1-palermo`
