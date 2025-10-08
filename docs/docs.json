@@ -10,8 +10,9 @@
       {
         "tab": "Documentation",
         "pages": [
-          "history.md",
-          "introduction.md"
+          "docs",
+          "history",
+          "introduction"
         ],
         "groups": [
           {
