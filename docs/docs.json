@@ -11,65 +11,60 @@
       "history",
       "introduction"
     ],
-    "tabs": [
+    "groups": [
       {
-        "tab": "Documentation",
-        "groups": [
-          {
-            "group": "Companies",
-            "pages": [
-              "Companies/Mantle",
-              "Companies/Metropolis",
-              "Companies/Octant",
-              "Companies/SRYDEN",
-              "Companies/ztl"
-            ]
-          },
-          {
-            "group": "Hosts",
-            "pages": [
-              "Hosts/altare.cv",
-              "Hosts/altare.pro",
-              "Hosts/baklava.cloud",
-              "Hosts/criticnode.com",
-              "Hosts/foxnodes.net",
-              "Hosts/gridway.io",
-              "Hosts/halex.gg",
-              "Hosts/mantle.lat",
-              "Hosts/nexiocloud",
-              "Hosts/northvm.net",
-              "Hosts/octant.gg",
-              "Hosts/polarisnode.com",
-              "Hosts/pylexnodes.net",
-              "Hosts/sryzen.cloud",
-              "Hosts/tegra.gg",
-              "Hosts/xeh.sh"
-            ]
-          },
-          {
-            "group": "People",
-            "pages": [
-              "People/CEO",
-              "People/Chelsea",
-              "People/Ciph",
-              "People/Landon West",
-              "People/Lewis Goom",
-              "People/Matt James",
-              "People/Oliver Nielsen"
-            ]
-          },
-          {
-            "group": "Software",
-            "pages": [
-              "Software/cryogenic",
-              "Software/heliactyl",
-              "Software/palladium",
-              "Software/radar",
-              "Software/tecton",
-              "Software/terra",
-              "Software/watchtower"
-            ]
-          }
+        "group": "Companies",
+        "pages": [
+          "Companies/Mantle",
+          "Companies/Metropolis",
+          "Companies/Octant",
+          "Companies/SRYDEN",
+          "Companies/ztl"
+        ]
+      },
+      {
+        "group": "Hosts",
+        "pages": [
+          "Hosts/altare.cv",
+          "Hosts/altare.pro",
+          "Hosts/baklava.cloud",
+          "Hosts/criticnode.com",
+          "Hosts/foxnodes.net",
+          "Hosts/gridway.io",
+          "Hosts/halex.gg",
+          "Hosts/mantle.lat",
+          "Hosts/nexiocloud",
+          "Hosts/northvm.net",
+          "Hosts/octant.gg",
+          "Hosts/polarisnode.com",
+          "Hosts/pylexnodes.net",
+          "Hosts/sryzen.cloud",
+          "Hosts/tegra.gg",
+          "Hosts/xeh.sh"
+        ]
+      },
+      {
+        "group": "People",
+        "pages": [
+          "People/CEO",
+          "People/Chelsea",
+          "People/Ciph",
+          "People/Landon West",
+          "People/Lewis Goom",
+          "People/Matt James",
+          "People/Oliver Nielsen"
+        ]
+      },
+      {
+        "group": "Software",
+        "pages": [
+          "Software/cryogenic",
+          "Software/heliactyl",
+          "Software/palladium",
+          "Software/radar",
+          "Software/tecton",
+          "Software/terra",
+          "Software/watchtower"
         ]
       }
     ],
