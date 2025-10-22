@@ -15,6 +15,7 @@
       {
         "group": "Companies",
         "pages": [
+          "Companies/Foundry",
           "Companies/Mantle",
           "Companies/Metropolis",
           "Companies/Octant",
