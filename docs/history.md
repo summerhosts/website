@@ -153,38 +153,5 @@ flowchart TD;
 ### History
 ```mermaid
 timeline
-  2025 : Mantle Industries LLC : Metropolis : Altare Inc.
-```
-
-### Structure
-```mermaid
-graph TD;
-  SRYD["SRYDEN"];
-  OCT["Octant"];
-  ZTL["ZTL"];
-  MANT["Mantle Industries LLC"];
-  PLT["Plutonodes"]
-
-  subgraph Dissolved/shut down
-    SRYD
-  end
-
-  subgraph Managed by Metropolis
-    MANT;
-    ZTL;
-  end
-
-  subgraph Owned by Z1
-    XEH;
-  end
-
-  subgraph Owned by Ever
-    PLT;
-  end
-
-  click SRYD href "/companies/SRYDEN";
-  click ZTL href "/companies/ztl";
-  click OCT href "/companies/Octant";
-  click MANT href "/companies/Mantle";
-  click METR href "/companies/Metropolis";
+  2025 : Mantle Industries LLC : Metropolis : Altare Inc. : Foundry
 ```
