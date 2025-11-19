@@ -77,17 +77,20 @@ flowchart TD;
   NO[northvm];
   click NO href "/Hosts/northvm.net";
 
-  ALT2["altare.pro"];
-  click ALT2 href "/Hosts/altare";
+  ALT["altare.pro"];
+  click ALT href "/Hosts/altare/1";
 
   ALT3["altare.cv"];
-  click ALT3 href "/Hosts/altare#altare-3";
+  click ALT3 href "/Hosts/altare/3";
 
   ALT6["altr.cc"];
-  click ALT6 href "/Hosts/altare#altare-6";
+  click ALT6 href "/Hosts/altare/6";
 
   ALT7["altr.cc"];
-  click ALT/ href "/Hosts/altare#altare-7";
+  click ALT7 href "/Hosts/altare/7";
+  
+  ALT8["altr.cc"];
+  click ALT8 href "/Hosts/altare/7";
 
   MA["mantle.lat"];
   click MA href "/Hosts/mantle.lat";
@@ -137,13 +140,14 @@ flowchart TD;
 
   XEB --> N;
   XEE --> OSH;
-  OSH -->|Octant was handed over to Sabrina Goom who kept it running| ALT2;
+  OSH -->|Octant was handed over to Sabrina Goom who kept it running| ALT;
   OSH -->|The domain was changed because Sam hijacked it| OGG;
-  ALT2 -->|Sryzen was active before mantle got even started| SRZ;
+  ALT -->|Sryzen was active before mantle got even started| SRZ;
   SRZ -->|Ether resigned from sryzen because their ideas didnt align| MA;
   MA -->|Mantle never launched| ALT3;
   ALT3 -->|They decided to change the domain for Altare v6| ALT6;
   ALT6 --> ALT7;
+  ALT7 --> ALT8;
 
   NE --> D;
   ZEN --> D;
