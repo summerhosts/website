@@ -11,3 +11,4 @@ description: "The replacement for Pterodactyl wings"
 ## Versions
 * `cryogenic@beta:1.0.1-palermo`
 * Cryogenic 15
+* Cryogenic 16

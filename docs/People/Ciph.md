@@ -4,5 +4,9 @@ description: A dude who wanted to buy xeh.sh
 ---
 
 * Owner of [Nexio Cloud](../Hosts/nexiocloud.md)
-* Known as: `Ciph` (`as.valex`)
-* Owns Valex Cloud LLC (not confirmed, just a guess)
+* Known as:
+  * `875373207895572530`
+    * `Ciph`
+      * `as.valex`
+      * `valex.cloud`
+* Owns Valex Cloud LLC
