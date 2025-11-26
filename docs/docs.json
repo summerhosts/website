@@ -26,7 +26,18 @@
       {
         "group": "Hosts",
         "pages": [
-          "Hosts/altare",
+          {
+            "group": "Altare",
+            "pages": [
+              "Hosts/Altare/1",
+              "Hosts/Altare/2",
+              "Hosts/Altare/3",
+              "Hosts/Altare/6",
+              "Hosts/Altare/7",
+              "Hosts/Altare/8",
+              "Hosts/Altare/index"
+            ]
+          },
           "Hosts/baklava.cloud",
           "Hosts/criticnode.com",
           "Hosts/foxnodes.net",
