@@ -69,6 +69,7 @@
       {
         "group": "Software",
         "pages": [
+          "Software/crucible",
           "Software/cryogenic",
           "Software/heliactyl",
           "Software/palladium",
