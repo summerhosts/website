@@ -77,6 +77,12 @@ flowchart TD;
   NO[northvm];
   click NO href "/Hosts/northvm.net";
 
+  MA["mantle.lat"];
+  click MA href "/Hosts/mantle.lat";
+
+  SRZ["sryzen.cloud"];
+  click SRZTX href "/Hosts/sryzen.cloud";
+
   ALT["altare.pro"];
   click ALT href "/Hosts/altare/1";
 
@@ -90,13 +96,13 @@ flowchart TD;
   click ALT7 href "/Hosts/altare/7";
   
   ALT8["altr.cc"];
-  click ALT8 href "/Hosts/altare/7";
+  click ALT8 href "/Hosts/altare/8";
 
-  MA["mantle.lat"];
-  click MA href "/Hosts/mantle.lat";
+  ASC["Ascendant"];
+  click ALT8 href "/Hosts/Ascendant";
 
-  SRZ["sryzen.cloud"];
-  click SRZTX href "/Hosts/sryzen.cloud";
+  ALT9["altr.cc"];
+  click ALT9 href "/Hosts/altare/8";
 
   HALN --> BAK;
   BAK --> PY;
@@ -148,6 +154,8 @@ flowchart TD;
   ALT3 -->|They decided to change the domain for Altare v6| ALT6;
   ALT6 --> ALT7;
   ALT7 --> ALT8;
+  ALT8 --> ASC;
+  ALT8 --> ALT9;
 
   NE --> D;
   ZEN --> D;
@@ -155,7 +163,8 @@ flowchart TD;
 
 ## Legal entities
 ### History
+This is based on what Ether says but the only actual legal entity is probably [ZTL](https://www.ztl.sh/)
 ```mermaid
 timeline
-  2025 : Mantle Industries LLC : Metropolis : Altare Inc. : Foundry
+  2025 : Mantle Industries LLC : Metropolis : Altare Inc. : Foundry : Ascendant AI
 ```
