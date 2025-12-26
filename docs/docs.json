@@ -30,6 +30,7 @@
             "group": "Altare",
             "pages": [
               "Hosts/Altare/1",
+              "Hosts/Altare/10",
               "Hosts/Altare/2",
               "Hosts/Altare/3",
               "Hosts/Altare/6",
@@ -70,6 +71,7 @@
       {
         "group": "Software",
         "pages": [
+          "Software/colossus",
           "Software/crucible",
           "Software/cryogenic",
           "Software/heliactyl",
