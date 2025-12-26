@@ -1,7 +1,8 @@
 ---
 title: Terra
-description: "Latest version: terra@beta:4.1.4-orion"
+description: An RDP daemon
 ---
 
-## Info
-* Latest version: `terra@beta:4.1.4-orion`
+## Versions
+* `terra@beta:4.1.4-orion`
+* Terra 16 [Altare 10]

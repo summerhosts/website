@@ -7,3 +7,6 @@ description: Captcha/protection solution used by Altare
 
 ## Flux
 Flux is part of tecton and it controls the user registration process. It prevents alting (i think)
+
+## Versions
+* Tecton 16 [Altare 10]
