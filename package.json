@@ -18,5 +18,8 @@
     "date-fns": "^4.1.0",
     "mermaid": "^11.12.2",
     "sharp": "^0.34.2"
+  },
+  "engines": {
+    "node": "24.x.x"
   }
 }
