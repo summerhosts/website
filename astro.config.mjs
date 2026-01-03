@@ -6,9 +6,12 @@ import expressiveCode from "astro-expressive-code";
 import mdx from "@astrojs/mdx";
 import mermaid from "astro-mermaid";
 
+import netlify from "@astrojs/netlify";
+
 // https://astro.build/config
 export default defineConfig({
   site: "https://summerhosts.netlify.app",
+
   integrations: [
     expressiveCode(),
     mdx(),
@@ -63,4 +66,6 @@ export default defineConfig({
       ],
     }),
   ],
+
+  adapter: netlify(),
 });
