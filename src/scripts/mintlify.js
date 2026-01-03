@@ -1,7 +1,7 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
-const docsPath = "docs";
+const docsPath = "src/content/docs";
 let navigation = {
   pages: [],
   groups: [],
