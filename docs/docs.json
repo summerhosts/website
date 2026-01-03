@@ -57,6 +57,13 @@
         ]
       },
       {
+        "group": "Misc",
+        "pages": [
+          "Misc/ludendroff",
+          "Misc/shittysryden.tk"
+        ]
+      },
+      {
         "group": "People",
         "pages": [
           "People/CEO",
@@ -75,6 +82,7 @@
           "Software/crucible",
           "Software/cryogenic",
           "Software/flux",
+          "Software/graphene",
           "Software/heliactyl",
           "Software/palladium",
           "Software/radar",
