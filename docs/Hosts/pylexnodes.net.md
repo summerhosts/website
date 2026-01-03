@@ -10,8 +10,9 @@ tags:
 ### Info
 * [Discord](https://discord.com/invite/kugVsaS2pm)
 * [Website](https://wispbyte.com/)
-* [GitHub (old)](https://github.com/pylexnodes)
-* [GitHub](https://github.com/wispbyte)
+* GitHub
+  * [pylexnodes](https://github.com/pylexnodes) (old)
+  * [wispbyte](https://github.com/wispbyte)
 
 ### History
 * Sold to David Dobos

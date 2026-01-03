@@ -8,8 +8,9 @@ description: History of SRYDEN.
 * [Website](https://www.sryden.com/)
 * [Website archives](https://web.archive.org/web/*/sryden.com)
 * [pages.dev site](https://sryden.pages.dev)
-* Has a [YoTube channel](https://www.youtube.com/@SRYDEN)
-* Another [YouTube channel](https://youtube.com/@sryden.offical)
+* Has YouTube channels
+  * [@SRYDEN](https://www.youtube.com/@SRYDEN)
+  * @[sryden.official](https://youtube.com/@sryden.offical)
 * Owned [Halex 14](../Hosts/halex.gg.md)
 * Owned [gridway](https://gridway.io/)
 * Made [Heliactyl](../Software/heliactyl.mdx)
