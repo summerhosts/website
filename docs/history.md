@@ -86,23 +86,26 @@ flowchart TD;
   ALT["altare.pro"];
   click ALT href "/Hosts/altare/1";
 
-  ALT3["altare.cv"];
+  ALT3["Altare 3 (altare.cv)"];
   click ALT3 href "/Hosts/altare/3";
 
-  ALT6["altr.cc"];
+  ALT6["Altare 6 (altr.cc)"];
   click ALT6 href "/Hosts/altare/6";
 
-  ALT7["altr.cc"];
+  ALT7["Altare 7 (altr.cc)"];
   click ALT7 href "/Hosts/altare/7";
   
-  ALT8["altr.cc"];
+  ALT8["Altare 8 (altr.cc)"];
   click ALT8 href "/Hosts/altare/8";
 
   ASC["Ascendant"];
   click ALT8 href "/Hosts/Ascendant";
 
-  ALT9["altr.cc"];
-  click ALT9 href "/Hosts/altare/8";
+  ALT9["Altare 9 (altr.cc)"];
+  click ALT9 href "/Hosts/altare/9";
+  
+  ALT9["Altare 10 (altr.cc)"];
+  click ALT9 href "/Hosts/altare/10";
 
   HALN --> BAK;
   BAK --> PY;
