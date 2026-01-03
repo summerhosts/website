@@ -1,9 +1,12 @@
 ---
 title: Graphene
-description: Public dashboard used for none of matt's hosts (they all used Heliactyl)
+description: The official successor to Heliactyl, now built on Palladium with unrivalled performance, features and reliability
 tags:
   - Dashboard
 ---
 
 ## Info
-### [GitHub](https://github.com/graphenepowered/)
+The official successor to Heliactyl, now built on Palladium with unrivalled performance, features and reliability.
+
+### GitHub
+[Graphene](https://github.com/graphenepowered/)
