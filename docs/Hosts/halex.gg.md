@@ -34,3 +34,6 @@ More precisely, Halex 14
 ![locations](https://summerhosts.github.io/media/halex/15/locations.png)
 ![nodes](https://summerhosts.github.io/media/halex/15/nodes.png)
 ![NL02 node](https://summerhosts.github.io/media/halex/15/NL02.png)
+
+## Carding
+Halex had [carding issues](https://iamdeka.pages.dev/summerhosts/K3h9dhEi39.webp), [1](https://docs.google.com/document/u/0/d/1cESvtuLLMg33jGZuvdt3MC-7U5NwUVmpTzmrySPJXAQ/mobilebasic?pli=1) and was even listed at [setup.md](https://www.setup.md/h/summerhosts) 

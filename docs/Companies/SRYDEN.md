@@ -7,7 +7,9 @@ description: History of SRYDEN.
 * Shut down
 * [Website](https://www.sryden.com/)
 * [Website archives](https://web.archive.org/web/*/sryden.com)
+* [pages.dev site](https://sryden.pages.dev)
 * Has a [YoTube channel](https://www.youtube.com/@SRYDEN)
+* Another [YouTube channel](https://youtube.com/@sryden.offical)
 * Owned [Halex 14](../Hosts/halex.gg.md)
 * Owned [gridway](https://gridway.io/)
 * Made [Heliactyl](../Software/heliactyl.mdx)
