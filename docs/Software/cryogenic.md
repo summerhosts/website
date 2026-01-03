@@ -7,6 +7,7 @@ description: "The replacement for Pterodactyl wings, previously known as Krypton
 
 ## Info
 * Latest version: cryogenic 15
+[GitHub](https://github.com/altaresoftware/cyrogenic)
 
 ## Versions
 * `cryogenic@beta:1.0.1-palermo`
