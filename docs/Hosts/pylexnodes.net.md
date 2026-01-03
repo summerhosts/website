@@ -10,7 +10,7 @@ tags:
 ### Info
 * [Discord](https://discord.com/invite/kugVsaS2pm)
 * [Website](https://wispbyte.com/)
-* [GitHub (old](https://github.com/pylexnodes)
+* [GitHub (old)](https://github.com/pylexnodes)
 * [GitHub](https://github.com/wispbyte)
 
 ### History
