@@ -2,6 +2,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
+import starlightThemeRapide from 'starlight-theme-rapide'
 import expressiveCode from "astro-expressive-code";
 import mdx from "@astrojs/mdx";
 import mermaid from "astro-mermaid";
@@ -20,6 +21,7 @@ export default defineConfig({
     starlight({
       title: "Summerhosts",
       favicon: "/icons/favicon_white.svg",
+      plugins: [starlightThemeRapide()],
       social: [
         {
           icon: "github",
