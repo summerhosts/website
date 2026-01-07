@@ -29,6 +29,7 @@ export default defineConfig({
         baseUrl:
           "https://github.com/summerhosts/site/edit/main/src/content/docs/",
       },
+      lastUpdated: true,
       plugins: [starlightThemeRapide()],
       social: [
         {
