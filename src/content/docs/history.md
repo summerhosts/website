@@ -54,7 +54,7 @@ flowchart TD;
   click XEE href "/hosts/xeh.sh";
 
   XEB["xeh.sh (scammed buyers own this)"];
-  click XEB href "/hosts/nexiocloud.sh";
+  click XEB href "/hosts/nexiocloudsh";
 
   GR[gridway.io]
   click GR href "/hosts/gridwayio";
@@ -101,10 +101,7 @@ flowchart TD;
   ASC["Ascendant"];
   click ALT8 href "/hosts/Ascendant";
 
-  ALT9["Altare 9 (altr.cc)"];
-  click ALT9 href "/hosts/altare/9";
-  
-  ALT9["Altare 10 (altr.cc)"];
+  ALT10["Altare 10 (altr.cc)"];
   click ALT9 href "/hosts/altare/10";
 
   HALN --> BAK;
@@ -158,7 +155,8 @@ flowchart TD;
   ALT6 --> ALT7;
   ALT7 --> ALT8;
   ALT8 --> ASC;
-  ALT8 --> ALT9;
+  ASC --> ALT10;
+  ALT8 --> ALT10;
 
   NE --> D;
   ZEN --> D;
