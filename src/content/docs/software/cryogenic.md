@@ -12,4 +12,4 @@ description: "The replacement for Pterodactyl wings, previously known as Krypton
 ## Versions
 * `cryogenic@beta:1.0.1-palermo`
 * Cryogenic 15 [[Altare 7](../hosts/Altare/7.mdx)] [[Altare 8](../hosts/Altare/8.mdx)]
-* Cryogenic 16 [Altare 10]
+* Cryogenic 16 [[Altare 10](../hosts/Altare/10.mdx)]

@@ -10,4 +10,4 @@ Flux is a security system built into [Heliactyl Next](./heliactyl.mdx) and [Cruc
 
 ## Versions
 * Flux 15 [[Altare 8](../hosts/Altare/8.mdx)]
-* Flux 16 [Altare 10]
+* Flux 16 [[Altare 10](../hosts/Altare/10.mdx)]

@@ -8,4 +8,4 @@ description: Captcha
 A captcha system
 
 ## Versions
-* Tecton 16 [Altare 10]
+* Tecton 16 [[Altare 10](../hosts/Altare/10.mdx)]
