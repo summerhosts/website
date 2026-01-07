@@ -20,10 +20,9 @@ export default defineConfig({
     }),
     starlight({
       title: "Summerhosts",
-      favicon: "/icons/favicon_white.svg",
       logo: {
-        dark: "/icons/favicon.svg",
-        light: "/icons/favicon_white.svg",
+        dark: "./src/assets/icons/favicon.svg",
+        light: "./src/assets/icons/favicon_white.svg",
         alt: "summerhosts logo",
       },
       editLink: {
