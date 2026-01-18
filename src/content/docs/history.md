@@ -105,7 +105,7 @@ flowchart TD;
   click ALT10 href "/hosts/altare/10";
 
   NA1["NA1 (na1.host)"];
-  click NA1 href "/hosts/na1";
+  click NA1 href "/hosts/na1host";
 
   HALN --> BAK;
   BAK --> PY;
