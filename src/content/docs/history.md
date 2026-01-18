@@ -102,7 +102,10 @@ flowchart TD;
   click ALT8 href "/hosts/Ascendant";
 
   ALT10["Altare 10 (altr.cc)"];
-  click ALT9 href "/hosts/altare/10";
+  click ALT10 href "/hosts/altare/10";
+
+  NA1["NA1 (na1.host)"];
+  click ALT10 href "/hosts/na1";
 
   HALN --> BAK;
   BAK --> PY;
@@ -156,7 +159,8 @@ flowchart TD;
   ALT7 --> ALT8;
   ALT8 --> ASC;
   ASC --> ALT10;
-  ALT8 --> ALT10;
+  ALT8 --> NA1;
+  NA1 --> ALT10;
 
   NE --> D;
   ZEN --> D;
