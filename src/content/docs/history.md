@@ -99,7 +99,7 @@ flowchart TD;
   click ALT8 href "/hosts/altare/8";
 
   ASC["Ascendant"];
-  click ALT8 href "/hosts/Ascendant";
+  click ASC href "/hosts/Ascendant";
 
   ALT10["Altare 10 (altr.cc)"];
   click ALT10 href "/hosts/altare/10";
