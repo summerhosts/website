@@ -6,16 +6,26 @@ description: History of SRYDEN.
 * Operated by Ether
 * Shut down
 * [Website](https://www.sryden.com/)
+* [Old Website 1](https://sryden.cloud)
+* [Old Website 2](https://sryden.co.uk)
 * [Website archives](https://web.archive.org/web/*/sryden.com)
 * [pages.dev site](https://sryden.pages.dev)
+* [vercel site](https://sryden.vercel.app)
 * Has YouTube channels
   * [@SRYDEN](https://www.youtube.com/@SRYDEN)
-  * @[sryden.official](https://youtube.com/@sryden.offical)
+  * [@sryden.official](https://youtube.com/@sryden.offical)
+* Has a NPM account
+  * [@sryden](https://npmjs.com/~sryden)
 * Owned [Halex 14](../hosts/halex.gg.md)
 * Owned [gridway](https://gridway.io/)
+* Owned Fractal
+* Owned PlutoNodes
 * Made [Heliactyl](../software/heliactyl.mdx)
 * Hidden videos
   * [The Best FREE 24/7 Minecraft Server Hosting in 2024 - Halex.gg](https://www.youtube.com/watch?v=Pyir_RsiaFw)
+ 
+## About
+SrydenCloud Limited operated as SRYDEN is a cloud computing company founded by [Matthew James](../People/Matt%20James.mdx) in 2019. The company operated from 2019 till 2024 and it's successor is ZenCore Technologies
 
 ## Disclaimer
 Sryden is a company that offers VPS services, but there are concerns about its credibility. Some people have raised issues about the ownership and management of the company, as well as its business practices. You can read reviews about Sryden on Trustpilot to learn more.
