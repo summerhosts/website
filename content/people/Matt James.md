@@ -116,4 +116,4 @@ _and i probably wont ever release it because it's shit_ - the guy himself
 
 ## Relationships
 ### Chelsea
-**{new Date(1749746878992).toLocaleString()}**: She got her passport 
+**<DateDisplay timestamp=1749746878992 />**: She got her passport 

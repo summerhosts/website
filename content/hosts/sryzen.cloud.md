@@ -17,7 +17,7 @@ tags:
 ### Switch to [Metropolis](../companies/Metropolis.md)
 I think before this Ether was helping out with heliactyl and the became part of the team
 
-**{new Date(1748540980720).toLocaleString()}**  
+**<DateDisplay timestamp="1748540980720" />**  
 >Hi @everyone,
 >
 >We will be making some changes over the next few days. My company Metropolis now operates Sryzen alongside the current management. Here's what will be changing:
@@ -34,7 +34,7 @@ I think before this Ether was helping out with heliactyl and the became part of 
 >
 
 ### Ether resigns
-**{new Date(1748650645931).toLocaleString()}**  
+**<DateDisplay timestamp="1748650645931" />**  
 Ether resigned from sryzen because their plans didnt align with his plans. He also said that he would be only available to clients
 <details>
 <summary>Original message</summary>

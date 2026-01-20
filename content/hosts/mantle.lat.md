@@ -13,10 +13,10 @@ description: Some host that didnt get started or finished
  
 ## History
 ### Server creation
-The discord server was created on {new Date(1745582680507).toLocaleString()}. It was then announced in Ether's discord server ({new Date(1746791321659).toLocaleString()}) as an Altare successor that would eventually exist.
+The discord server was created on <DateDisplay timestamp="1745582680507" />. It was then announced in Ether's discord server (<DateDisplay timestamp="1746791321659" />) as an Altare successor that would eventually exist.
 
 ### First announcements
-**{new Date(1746790918616).toLocaleString()}**
+**<DateDisplay timestamp="1746790918616" />**
 >successor to altare eventually
 >
 >*legal:*
@@ -24,11 +24,11 @@ The discord server was created on {new Date(1745582680507).toLocaleString()}. It
 >213 Mission St, San Francisco, CA 94105, USA
 >
 
-**{new Date(1746791186655).toLocaleString()}**
+**<DateDisplay timestamp="1746791186655" />**
 >**eventually** is the word i cant be arsed to do this right now
 >
 
-**{new Date(1747221232034).toLocaleString()}**
+**<DateDisplay timestamp="1747221232034" />**
 >new dashboard coming to mantle at launch.
 >![next 10 branding](https://summerhosts.github.io/media/heliactyl/next_10/branding_1.png)
 >
@@ -37,25 +37,25 @@ The discord server was created on {new Date(1745582680507).toLocaleString()}. It
 >![ptero](https://summerhosts.github.io/media/mantle/panel_1.png)
 >
 
-**{new Date(1747221811806).toLocaleString()}**
+**<DateDisplay timestamp="1747221811806" />**
 >After Altare, we no longer run dual Argon Krypton and Pterodactyl Wings in production for both panels. We now use a custom Rust based daemon forked from github.com/0x7d8/wings-rs. We merged a lot of Next 10's functionality that previously relied on Pterodactyl's API to natively use the daemon
 >
 >We call this daemon Cryogenic, it will become the standard daemon that is used with Pterodactyl + Heliactyl Next
 >
 
 ### Dashboard & Site reveal
-**{new Date(1747487899621).toLocaleString()}**  
+**<DateDisplay timestamp="1747487899621" />**  
 >things will probably change
 >![dash concept](https://summerhosts.github.io/media/mantle/dash_concept.png)
 >
 
-**{new Date(1747488611638).toLocaleString()}**  
+**<DateDisplay timestamp="1747488611638" />**  
 >site is *sort of* different
 >![site concept](https://summerhosts.github.io/media/mantle/website_concept.png)
 >
 
 ### Big plans
-**{new Date(1747323382460).toLocaleString()}**  
+**<DateDisplay timestamp="1747323382460" />**  
 >@everyone it’s so lonely at the bottom of the hosting industry we’re going to do the largest marketing campaign in my 6 years here and become the \#1 largest free 24/7 host in \<24 hours of launch
 >
 
@@ -63,14 +63,14 @@ The discord server was created on {new Date(1745582680507).toLocaleString()}. It
 >
 
 ### u want mantle ?
-**{new Date(1747489596473).toLocaleString()}**  
+**<DateDisplay timestamp="1747489596473" />**  
 >@everyone I will be passing over Mantle to a new team that I will choose, I will remain as an advisor 
 >
 >Realised I currently do not have the time to finish or operate the host. However, everything will remain to my quality standards
 >
 
 ### Mantle launch
-**{new Date(1748690987174).toLocaleString()}**  
+**<DateDisplay timestamp="1748690987174" />**  
 After Ether [resigned from Sryzen](./sryzen.cloud.mdx#ether-resigns) he decided he would work on Heliactyl Next 11 and Mantle. Metropolis & Mantle launch on {new Date(1749564000 * 1000).toLocaleString()}
 
 <details>

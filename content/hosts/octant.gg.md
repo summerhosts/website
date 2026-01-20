@@ -20,39 +20,39 @@ tags:
 **{new Date(1739487600 * 1000).toLocaleString()}**  
 The server was created on this day, i know this because [Ether](../people/Matt%20James.mdx) who is the owner of the server joined. The server has 5 channels: <img src="https://summerhosts.github.io/media/icons/discord/rules.png" alt="#" width="15vw"/> rules <img src="https://summerhosts.github.io/media/icons/discord/stage.png" alt="#" width="15vw"/> Event <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>chat <img src="https://summerhosts.github.io/media/icons/discord/voice.png" alt="#" width="15vw"/>General.  
 
-**{new Date(1739635028021).toLocaleString()}**  
+**<DateDisplay timestamp="1739635028021" />**  
 Until this day join messages were sent in <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news.
 
 ### Event
 There was going to be an event in the event stage but it was moved to YT.  
-{new Date(1739557210410).toLocaleString()} {new Date(1739557210410).toLocaleTimeString()}  
+<DateDisplay timestamp="1739557210410" /> {new Date(1739557210410).toLocaleTimeString()}  
 >10 minutes till event lads
 >
 
-{new Date(1739557411347).toLocaleString()} {new Date(1739557411347).toLocaleTimeString()}  
+<DateDisplay timestamp="1739557411347" /> {new Date(1739557411347).toLocaleTimeString()}  
 >event cancelled
 >will be on YT instead
 >under the ZTX or old sryden channel 
 >will send link later
 >
 
-**{new Date(1739558368681).toLocaleString()}**  
+**<DateDisplay timestamp="1739558368681" />**  
 The [YT video](https://www.youtube.com/watch?v=KXovubDhMNE) got taken down for antisemitism.
 
-**{new Date(1739558587472).toLocaleString()}**  
+**<DateDisplay timestamp="1739558587472" />**  
 >Hi Matt James,
 >
 >
 >It looks like XEH Event didn’t follow Community Guidelines. To help keep our community safe, we removed it from YouTube
 >
 
-**{new Date(1739558612778).toLocaleString()}**  
+**<DateDisplay timestamp="1739558612778" />**  
 Ether disagrees with YT
 >what a joke
 >trump as the US president and i don't even have free speech on youtube
 >
 ### Announcements
-**{new Date(1739635181486).toLocaleString()}**  
+**<DateDisplay timestamp="1739635181486" />**  
 Ether stated that they are "assembling" all of the software (dashboards, Mari (their dc bot), AI models) he has been developping to make "the world's fastest free host thanks to Krypton's architecture"
 <details>
 <summary>Original message</summary>
@@ -69,42 +69,42 @@ Ether stated that they are "assembling" all of the software (dashboards, Mari (t
 >
 
 </details>
-**{new Date(1739650417525).toLocaleString()}**  
+**<DateDisplay timestamp="1739650417525" />**  
 >Octant's services will not be available in the US
 >
 >If you are located there, please expect to need a VPN. This would also include ex. the free hosting
 >
 
-**{new Date(1739727772627).toLocaleString()}**  
+**<DateDisplay timestamp="1739727772627" />**  
 >We have spare NVIDIA H100 / L40S' available
 >
 >Need GPU compute for AI? Contact sales@octant.sh
 >
 
 ### The music album
-**{new Date(1739832451974).toLocaleString()}**  
-Ether asked *the people* if he should release his music album ("the matt james album"). Majority (6 people as of {new Date(1739905030).toLocaleString()}) voted 👍. He said it will come out in april/june cuz he has to finish some songs.
+**<DateDisplay timestamp="1739832451974" />**  
+Ether asked *the people* if he should release his music album ("the matt james album"). Majority (6 people as of <DateDisplay timestamp="1739905030" />) voted 👍. He said it will come out in april/june cuz he has to finish some songs.
 He also said the album was originally meant to be "a load of hating on nayskutzu" but he "abandoned all those songs except 1". The main song is "00:46 am in santiago" (changed from "2:06 am in santiago") and the "good one" is "workplace health concerns"
 
 ### Nonce
-**{new Date(1739883300251).toLocaleString()}**  
+**<DateDisplay timestamp="1739883300251" />**  
 ![are u a nonce ?](https://summerhosts.github.io/media/octant/nonce.png)
 
 ### Fuck off
-**{new Date(1739901623680).toLocaleString()}** - **{new Date(1739904856923).toLocaleString()}**  
+**<DateDisplay timestamp="1739901623680" />** - **<DateDisplay timestamp="1739904856923" />**  
 ![fuck off](https://summerhosts.github.io/media/octant/fuck%20off.png)
 
 ### Apologies
-**{new Date(1739912181174).toLocaleString()}**  
+**<DateDisplay timestamp="1739912181174" />**  
 Ether apologized for the statements above and purged the <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news and <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>chat channel.  
 It's still unclear if he will make a new free host or not.  
 Not sure if the rules channel was was purged but a new rule appeared:  
-{new Date(1739909880829).toLocaleString()}
+<DateDisplay timestamp="1739909880829" />
 >no russian
 >
 
 ### Assembled
-**{new Date(1740073244415).toLocaleString()}**  
+**<DateDisplay timestamp="1740073244415" />**  
 Ether announced that a team has been assembled which contains former excutives/staff from  
 >xeh, pylex, halex, ztx and prior
 >
@@ -116,7 +116,7 @@ On this day this design concept for Octant's branding was published
 ![concept](https://summerhosts.github.io/media/octant/concept_design.png)
 
 ### Axis comeback
-**{new Date(1740195085544).toLocaleString()}**  
+**<DateDisplay timestamp="1740195085544" />**  
 >Tomorrow at 13:00 GMT. We're beating ChatGPT, Claude, Grok, Gemini and all of the models in pure performance and benchmarks very soon
 >
 ![AI peek 1](https://summerhosts.github.io/media/octant/AI_1.png)
@@ -126,7 +126,7 @@ On this day this design concept for Octant's branding was published
 ![AI peek 2](https://summerhosts.github.io/media/octant/AI_2.png)
 
 ### Axis 2 launch
-**{new Date(1740229211763).toLocaleString()}**
+**<DateDisplay timestamp="1740229211763" />**
 Axis 2 was released along with a few stats (provided by Sabrina Goom) 
 - Axis 2 Pro is #1 in MMLU (93.2%) - the highest reasoning score for any AI
 - Axis 2 Pro is #1 in HumanEval - the best AI for programming and problem solving
@@ -138,10 +138,10 @@ The AI is completely free with no limits
 <details>
 <summary>Original message</summary>
 
-[**Ether** - {new Date(1740197384521).toLocaleString()}](https://discord.com/channels/1340023550953914498/1341513605157486703/1342709891684630528)  
->{new Date(1740229740000).toLocaleString()}  
+[**Ether** - <DateDisplay timestamp="1740197384521" />](https://discord.com/channels/1340023550953914498/1341513605157486703/1342709891684630528)  
+><DateDisplay timestamp="1740229740000" />  
 
-[**Sabrina Goom** - {new Date(1740229211763).toLocaleString()}](https://discord.com/channels/1340023550953914498/1341513605157486703/1342843384812802181)  
+[**Sabrina Goom** - <DateDisplay timestamp="1740229211763" />](https://discord.com/channels/1340023550953914498/1341513605157486703/1342843384812802181)  
 >@everyone
 >(Ether made the timestamp 9 minutes late, but it is releasing now)
 >
@@ -159,15 +159,15 @@ The AI is completely free with no limits
 </details>
 
 ### AI site features
-**{new Date(1740237232828).toLocaleString()}**  
+**<DateDisplay timestamp="1740237232828" />**  
 Users are now able to search through and organize their chats with folders or by pinning them.
 
 ### Octant event ?
-**{new Date(1740284081911).toLocaleString()}**  
+**<DateDisplay timestamp="1740284081911" />**  
 It was announced that an octant event was happening in a now deleted channel. Later it was also announced that nothing was announced during the event.
 
 ### Change of operations
-**{new Date(1740330418884).toLocaleString()}**  
+**<DateDisplay timestamp="1740330418884" />**  
 
 Ether announced that:
 * he no longer believes in his principles of how a free host, or company should operate
@@ -192,11 +192,11 @@ Ether announced that:
 </details>
 
 ### Free host dashboard
-**{new Date(1740433045459).toLocaleString()}**  
+**<DateDisplay timestamp="1740433045459" />**  
 It was announced the Octant's free host will be running Heliactyl Next 6 as a dashboard instead of modified Argon
 
 ### Octant compute
-**{new Date(1740439595834).toLocaleString()}**  
+**<DateDisplay timestamp="1740439595834" />**  
 >@everyone
 >
 >Octant Compute.
@@ -206,7 +206,7 @@ It was announced the Octant's free host will be running Heliactyl Next 6 as a da
 ![attachment](https://summerhosts.github.io/media/octant/compute.png)
 
 ### Free hosting coming Tomorrow
-**{new Date(1740507992445).toLocaleString()}**  
+**<DateDisplay timestamp="1740507992445" />**  
 >@everyone We are shipping Octant free hosting tomorrow at 13:00 GMT
 >
 >Powered by Heliactyl Next (formerly Prism which was formerly Heliactyl Next)
@@ -217,11 +217,11 @@ Octant free hosting didn't ship the next day and was delayed with an ETA of < 2 
 
 <details>
 <summary>Original message</summary>
-{new Date(1740577719240).toLocaleString()}  
+<DateDisplay timestamp="1740577719240" />  
 >Delayed
 >
 
-{new Date(1740582542646).toLocaleString()}  
+<DateDisplay timestamp="1740582542646" />  
 >@here Unfortunately, this is on hold due to lack of on hand hardware
 >
 >While we realise free hosting is necessary to push growth for our other products, we do not want to launch it unless we have enough capacity and there is a solid strategy for it
@@ -230,14 +230,14 @@ Octant free hosting didn't ship the next day and was delayed with an ETA of < 2 
 >The goal was to get back to our previous record of 17k members although this seems rather difficult at the moment
 >
 
-{new Date(1740583977315).toLocaleString()}  
+<DateDisplay timestamp="1740583977315" />  
 >ETA: < 2 weeks
 >
 
 </details>
 
 ### Software info
-**{new Date(1740624267095).toLocaleString()}**  
+**<DateDisplay timestamp="1740624267095" />**  
 The next [Heliactyl](../software/heliactyl.mdx) generation's codename was confirmed to be `Avanzar` and it will release alongside [Radar](../software/radar.mdx) 8 (codenamed `Viento`)
 
 <details>
@@ -252,7 +252,7 @@ The next [Heliactyl](../software/heliactyl.mdx) generation's codename was confir
 </details>
 
 ### Paid-for prices
-**{new Date(1740611806430).toLocaleString()}**
+**<DateDisplay timestamp="1740611806430" />**
 >@everyone
 >
 >We're accepting Compute Preorders!
@@ -280,7 +280,7 @@ The next [Heliactyl](../software/heliactyl.mdx) generation's codename was confir
 >
 
 ### Free hosting news
-**{new Date(1740801196412).toLocaleString()} <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news**  
+**<DateDisplay timestamp="1740801196412" /> <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news**  
 >@everyone
 >
 >**Octant free hosting launches in a few hours**
@@ -299,15 +299,15 @@ The next [Heliactyl](../software/heliactyl.mdx) generation's codename was confir
 >Regarding who will run the host, please refer to https://discord.com/channels/1340023550953914498/1342628263981486192/1345242385927503945
 >
 
-{new Date(1740801689751).toLocaleString()}  
+<DateDisplay timestamp="1740801689751" />  
 Ether sent a dashboard preview (<img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news)
 ![dashboard preview](https://summerhosts.github.io/media/octant/dashboard.png)
 
-**{new Date(1740765432949).toLocaleString()}**  
+**<DateDisplay timestamp="1740765432949" />**  
 >@everyone we're fucking back. free hosting available by 1pm tomorrow
 ![we are back](https://summerhosts.github.io/media/octant/we_are_back.png)
 
-**{new Date(1740802403548).toLocaleString()}**  
+**<DateDisplay timestamp="1740802403548" />**  
 Panel URL was announced
 
 <details>
@@ -319,12 +319,12 @@ Panel URL was announced
 
 </details>
 
-**{new Date(1740836166298).toLocaleString()}**
+**<DateDisplay timestamp="1740836166298" />**
 >The dashboard is finished I'm just sorting out the nodes
 >
 
 ### Sold & online
-Octant was sold. I didn't take note of exactly when but {new Date(1741094898919).toLocaleString()} it was announced that the dashboard was online and the url was https://hosting.octant.sh/. All of the following quoted messages have been sent by Sabrina Goom if not specified.
+Octant was sold. I didn't take note of exactly when but <DateDisplay timestamp="1741094898919" /> it was announced that the dashboard was online and the url was https://hosting.octant.sh/. All of the following quoted messages have been sent by Sabrina Goom if not specified.
 
 <details>
 <summary>Original message</summary>
@@ -341,7 +341,7 @@ Octant was sold. I didn't take note of exactly when but {new Date(1741094898919)
 </details>
 
 ### More nodes
-**{new Date(1741170830541).toLocaleString()}**  
+**<DateDisplay timestamp="1741170830541" />**  
 The only node that was available (Atlas) was full and a new node is coming soon.
 
 <details>
@@ -354,7 +354,7 @@ The only node that was available (Atlas) was full and a new node is coming soon.
 
 </details>
 
-**{new Date(1741273035438).toLocaleString()}**  
+**<DateDisplay timestamp="1741273035438" />**  
 A new Helios node was announced along with a per server resource limit:
 * 8GB of RAM
 * 250% CPU
@@ -380,13 +380,13 @@ A new Helios node was announced along with a per server resource limit:
 
 </details>
 
-**{new Date(1741281222780).toLocaleString()}**  
+**<DateDisplay timestamp="1741281222780" />**  
 The AFK page was disabled because of "abuse".
 >We are not sure when (or if) it will come back at this current time however for at the moment you are still welcome to earn through ⁠rewards and may have other methods of earning coming soon.
 >
 
 ### DDoS
-**{new Date(1741318730890).toLocaleString()}**  
+**<DateDisplay timestamp="1741318730890" />**  
 The Helios node was DDoSed really hard earlier in the day. This caused an outage.
 
 <details>
@@ -406,7 +406,7 @@ The Helios node was DDoSed really hard earlier in the day. This caused an outage
 </details>
 
 ### Another node!
-**{new Date(1741359437675).toLocaleString()}**  
+**<DateDisplay timestamp="1741359437675" />**  
 The Aether node was announced. The status page was also promised to be delivered shortly.
 
 <details>

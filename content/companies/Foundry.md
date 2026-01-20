@@ -5,7 +5,7 @@ description: Company that develops Heliactyl, Radar, Skyport and other software 
 
 ## [Discord](https://discord.gg/uw5YD6PKRA)
 ## Annoucement
-It was announced in the Sryzen discord server {new Date(1761141716343).toLocaleString()}. Its made of Ether and some people from Altare and Sryzen's team. The software will be open source
+It was announced in the Sryzen discord server <DateDisplay timestamp=1761141716343 />. Its made of Ether and some people from Altare and Sryzen's team. The software will be open source
 <details>
 <summary>Original Message</summary>
 

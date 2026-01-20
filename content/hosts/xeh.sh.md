@@ -31,7 +31,7 @@ This host was going to be sold to as.valex and cooldragon12346 but ether scammed
 
     ## Events
     ### XEH 5 Beta launched
-    **{new Date(1737077258199).toLocaleString()}**  
+    **<DateDisplay timestamp="1737077258199" />**  
     [Message sent by Ether in #news](https://discord.com/channels/1322308245263614062/1322549686489321597/1329623133371502602)  
 
     >@everyone 
@@ -44,7 +44,7 @@ This host was going to be sold to as.valex and cooldragon12346 but ether scammed
     >More regions will come online over the next few hours including London, Nottingham, Singapore, Tokyo and Paris
 
     ### XEH reaches 1k members
-    **{new Date(1737350813690).toLocaleString()}**  
+    **<DateDisplay timestamp="1737350813690" />**  
     Message sent by A$H (ashrarity)  
 
     `#` 1,000 MEMBERS ![1328418497100779592](../../../assets/custom_emojis/xeh.sh/xeh_big.webp)
@@ -67,7 +67,7 @@ This host was going to be sold to as.valex and cooldragon12346 but ether scammed
     > 
 
     ### Shutdown
-    **~{new Date(1739306048549).toLocaleString()}**  
+    **~<DateDisplay timestamp="1739306048549" />**  
     The XEH server got deleted after an `@everyone` ping. The ping basically stated that xeh will shut down and node data will be gone by x dates.
     Heres a screenshot of the dates (provided by cooldragon12346 in the news channel of the other XEH discord, [message link](https://discord.com/channels/1322308245263614062/1322549686489321597/1338971357651800184)):
     ![shutdown screenshot](https://summerhosts.github.io/media/xeh/Octant/when%20data%20goes%20poof.png)
@@ -86,11 +86,11 @@ This host was going to be sold to as.valex and cooldragon12346 but ether scammed
       * [Discord](https://discord.gg/sJGYQAmytU)
     ## Events
     ### Purchase
-    **{new Date(1740275063520).toLocaleString()}**
+    **<DateDisplay timestamp="1740275063520" />**
     [Ciph](../people/Ciph.md) announced that he bought the discord sever from [cooldragon12346](../people/Landon%20West.md) and is planning to actually open a host. Thanks to his visionary powers, he also sees a bright future for the host.
 
     ### Rebrand
-    **{new Date(1740331302229).toLocaleString()}**
+    **<DateDisplay timestamp="1740331302229" />**
     The host was rebranded to [Nexio Cloud](./nexiocloud.md). It was also announced that it was going to be released very soon. Events and more info will be in the new [Nexio Cloud page](./nexiocloud.md)
   </TabItem>
 </Tabs>

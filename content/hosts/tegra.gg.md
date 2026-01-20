@@ -15,7 +15,7 @@ tags:
 * [Dashboard (offline)](https://app.tegra.gg)
 
 ## History
-This host was originally named Lunx and was bought by ararat AKA [Matt James](../people/Matt%20James.mdx) (he announced it {new Date(1721252518301).toLocaleString()}) who promised to turn it into a host that isn't shit  
+This host was originally named Lunx and was bought by ararat AKA [Matt James](../people/Matt%20James.mdx) (he announced it <DateDisplay timestamp="1721252518301" />) who promised to turn it into a host that isn't shit  
 He also announced that  
 >i like retro shit currently so u will all get a terminal for the dashboard and thats it  
 >though it will be very fast  
@@ -24,7 +24,7 @@ He also announced that
 First node was in Delhi even if a poll was held:
 ![poll image](https://summerhosts.github.io/media/tegra/node_announcement.png)  
 
-# {new Date(1721419777767).toLocaleString()}
+# <DateDisplay timestamp="1721419777767" />
 After some activity checks by `I love Frieren` (1989.6.04)  
 ![activity check](https://summerhosts.github.io/media/tegra/activity_checks.png)  
 He announced that  
@@ -38,14 +38,14 @@ and proceeded to send this 2 minutes later:
 >
 this was the launch of tegra.gg  
 
-# {new Date(1721474842869).toLocaleString()}
+# <DateDisplay timestamp="1721474842869" />
 Ararat announced that  
 >@here There will probably be a lot of lag on the Asia locations there's far too many servers on them
 >
 After the new delhi node it seems like some more nodes were added:  
 ![more nodes](https://summerhosts.github.io/media/tegra/nodes.png)  
 
-# {new Date(1721484029354).toLocaleString()}
+# <DateDisplay timestamp="1721484029354" />
 Later that day he announced a paid-for plan/package/offer in a Gravelines, France node:  
 >@everyone We have some spare servers in Gravelines, France if anyone would like to purchase one:  
 >  
@@ -62,7 +62,7 @@ Later that day he announced a paid-for plan/package/offer in a Gravelines, Franc
 >Please DM me, open a ticket or email sales@tegra.gg to purchase one  
 >  
 >We accept all common payment methods such as debit/credit cards, Paysafecard, Sofort, Bank transfer, PayPal and also Crypto  
-# {new Date(1721734806080).toLocaleString()}
+# <DateDisplay timestamp="1721734806080" />
 >@everyone fortunately the host is over now  
 >i was actually ampere/atqr  
 >tldr  

@@ -1,13 +1,3 @@
-# Dependencies
-/node_modules
-
-# Production
-/dist
-
-# Generated files
-/.astro
-
-# Misc
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+node_modules/
+.vitepress/dist/
+.vitepress/cache/
