@@ -5,12 +5,15 @@ import { defineConfig } from "vitepress";
 export default defineConfig(
   withSidebar(
     {
+      title: "Summerhosts",
+      description: "The history of ephemeral hosting services.",
+
       srcDir: "content",
       assetsDir: "assets",
 
-      title: "Summerhosts",
-      description: "The history of ephemeral hosting services.",
       head: [["link", { rel: "icon", href: "/icons/favicon_white.png" }]],
+      cleanUrls: true,
+
       sitemap: {
         hostname: "https://summerhosts.netlify.app",
       },
