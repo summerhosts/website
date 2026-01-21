@@ -15,7 +15,7 @@ tags:
 * [Dashboard (offline)](https://app.tegra.gg)
 
 ## History
-This host was originally named Lunx and was bought by ararat AKA [Matt James](../people/Matt%20James.md) (he announced it <DateDisplay timestamp="1721252518301" />) who promised to turn it into a host that isn't shit  
+This host was originally named Lunx and was bought by ararat AKA [Matt James](../people/Matthew%20James.md) (he announced it <DateDisplay timestamp="1721252518301" />) who promised to turn it into a host that isn't shit  
 He also announced that  
 >i like retro shit currently so u will all get a terminal for the dashboard and thats it  
 >though it will be very fast  

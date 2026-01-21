@@ -18,7 +18,7 @@ tags:
 ## Events
 ### Server creation
 **{new Date(1739487600 * 1000).toLocaleString()}**  
-The server was created on this day, i know this because [Ether](../people/Matt%20James.md) who is the owner of the server joined. The server has 5 channels: <img src="https://summerhosts.github.io/media/icons/discord/rules.png" alt="#" width="15vw"/> rules <img src="https://summerhosts.github.io/media/icons/discord/stage.png" alt="#" width="15vw"/> Event <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>chat <img src="https://summerhosts.github.io/media/icons/discord/voice.png" alt="#" width="15vw"/>General.  
+The server was created on this day, i know this because [Ether](../people/Matthew%20James.md) who is the owner of the server joined. The server has 5 channels: <img src="https://summerhosts.github.io/media/icons/discord/rules.png" alt="#" width="15vw"/> rules <img src="https://summerhosts.github.io/media/icons/discord/stage.png" alt="#" width="15vw"/> Event <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>chat <img src="https://summerhosts.github.io/media/icons/discord/voice.png" alt="#" width="15vw"/>General.  
 
 **<DateDisplay timestamp="1739635028021" />**  
 Until this day join messages were sent in <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news.

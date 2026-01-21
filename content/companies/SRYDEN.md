@@ -25,7 +25,7 @@ description: History of SRYDEN.
   * [The Best FREE 24/7 Minecraft Server Hosting in 2024 - Halex.gg](https://www.youtube.com/watch?v=Pyir_RsiaFw)
  
 ## About
-SrydenCloud Limited operated as SRYDEN is a cloud computing company founded by [Matthew James](../people/Matt%20James.md) in 2019. The company operated from 2019 till 2024 and it's successor is ZenCore Technologies
+SrydenCloud Limited operated as SRYDEN is a cloud computing company founded by [Matthew James](../people/Matthew%20James.md) in 2019. The company operated from 2019 till 2024 and it's successor is ZenCore Technologies
 
 ## Disclaimer
 Sryden is a company that offers VPS services, but there are concerns about its credibility. Some people have raised issues about the ownership and management of the company, as well as its business practices. You can read reviews about Sryden on Trustpilot to learn more.
