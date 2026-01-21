@@ -10,7 +10,7 @@ tags:
 
 More precisely, Halex 14
 
-## Halex 14
+## Halex 14 {#halex-14}
 ### Info
 * Dashboard software: [Heliactyl](../software/heliactyl.md), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
 * [Discord](https://discord.gg/uujB8dtF6t)
@@ -25,7 +25,7 @@ More precisely, Halex 14
 ![nodes](https://summerhosts.github.io/media/halex/14/nodes.png)
 ![software](https://summerhosts.github.io/media/halex/14/software.png)
 
-## Halex 15
+## Halex 15 {#halex-15}
 ### Info
 * [Discord](https://discord.gg/4pP8mBAnFs)
 

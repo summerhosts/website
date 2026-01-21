@@ -33,55 +33,54 @@ flowchart TD;
   D(died);
 
   PY[pylexnodes.net];
-  click PY href "/hosts/pylexnodesnet";
+  click PY href "/hosts/pylexnodes.net";
 
   BAK[baklava.cloud];
-  click BAK href "/hosts/baklavacloud";
+  click BAK href "/hosts/baklava.cloud";
 
   HAL[halex.gg]
-  click HAL href "/hosts/halexgg";
+  click HAL href "/hosts/halex.gg";
 
   H14[halex.gg 14];
-  click H14 href "/hosts/halexgg#halex-14";
+  click H14 href "/hosts/halex.gg#halex-14";
 
   H15[halex.gg 15]
-  click H15 href "/hosts/halexgg#halex-15";
+  click H15 href "/hosts/halex.gg#halex-15";
 
   PO[polarisnode.com]
-  click PO href "/hosts/polarisnodecom";
+  click PO href "/hosts/polarisnode.com";
 
   XEE["xeh.sh (ether)"];
   click XEE href "/hosts/xeh.sh";
 
   XEB["xeh.sh (scammed buyers own this)"];
-  click XEB href "/hosts/nexiocloudsh";
+  click XEB href "/hosts/nexiocloud.sh";
 
   GR[gridway.io]
-  click GR href "/hosts/gridwayio";
+  click GR href "/hosts/gridway.io";
 
   VE[versevm.pro];
-  click VE href "/hosts/gridwayio";
 
   TE[tegra.gg];
-  click TE href "/hosts/tegragg";
+  click TE href "/hosts/tegra.gg";
 
   OSH["octant.sh"];
-  click OSH href "/hosts/octantgg";
+  click OSH href "/hosts/octant.gg";
 
   OGG["octant.gg"];
-  click OGG href "/hosts/octantgg";
+  click OGG href "/hosts/octant.gg";
 
   N["nexiocloud"];
   click N href "/hosts/nexiocloud";
   
   NO[northvm];
-  click NO href "/hosts/northvmnet";
+  click NO href "/hosts/northvm.net";
 
   MA["mantle.lat"];
-  click MA href "/hosts/mantlelat";
+  click MA href "/hosts/mantle.lat";
 
   SRZ["sryzen.cloud"];
-  click SRZTX href "/hosts/sryzencloud";
+  click SRZTX href "/hosts/sryzen.cloud";
 
   ALT["altare.pro"];
   click ALT href "/hosts/altare/1";
@@ -105,7 +104,7 @@ flowchart TD;
   click ALT10 href "/hosts/altare/10";
 
   NA1["NA1 (na1.host)"];
-  click NA1 href "/hosts/na1host";
+  click NA1 href "/hosts/na1.host";
 
   HALN --> BAK;
   BAK --> PY;
