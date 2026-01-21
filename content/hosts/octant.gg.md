@@ -13,12 +13,12 @@ tags:
 * [Dashboard](https://host.octant.gg/)
 * [Panel](https://panel.octant.gg/)
 * [Discord](https://discord.gg/tgBNcC4KaQ)
-* Dashboard software: [Heliactyl Next](../software/heliactyl.mdx)
+* Dashboard software: [Heliactyl Next](../software/heliactyl.md)
 
 ## Events
 ### Server creation
 **{new Date(1739487600 * 1000).toLocaleString()}**  
-The server was created on this day, i know this because [Ether](../people/Matt%20James.mdx) who is the owner of the server joined. The server has 5 channels: <img src="https://summerhosts.github.io/media/icons/discord/rules.png" alt="#" width="15vw"/> rules <img src="https://summerhosts.github.io/media/icons/discord/stage.png" alt="#" width="15vw"/> Event <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>chat <img src="https://summerhosts.github.io/media/icons/discord/voice.png" alt="#" width="15vw"/>General.  
+The server was created on this day, i know this because [Ether](../people/Matt%20James.md) who is the owner of the server joined. The server has 5 channels: <img src="https://summerhosts.github.io/media/icons/discord/rules.png" alt="#" width="15vw"/> rules <img src="https://summerhosts.github.io/media/icons/discord/stage.png" alt="#" width="15vw"/> Event <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>chat <img src="https://summerhosts.github.io/media/icons/discord/voice.png" alt="#" width="15vw"/>General.  
 
 **<DateDisplay timestamp="1739635028021" />**  
 Until this day join messages were sent in <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news.
@@ -238,7 +238,7 @@ Octant free hosting didn't ship the next day and was delayed with an ETA of < 2 
 
 ### Software info
 **<DateDisplay timestamp="1740624267095" />**  
-The next [Heliactyl](../software/heliactyl.mdx) generation's codename was confirmed to be `Avanzar` and it will release alongside [Radar](../software/radar.mdx) 8 (codenamed `Viento`)
+The next [Heliactyl](../software/heliactyl.md) generation's codename was confirmed to be `Avanzar` and it will release alongside [Radar](../software/radar.md) 8 (codenamed `Viento`)
 
 <details>
 <summary>Original message</summary>
@@ -331,7 +331,7 @@ Octant was sold. I didn't take note of exactly when but <DateDisplay timestamp="
 @Fraser (justplinxy)
 >🚀 We're Live! @everyone
 >
->It's been a long time coming, especially for those who were around for Alwy, but we're finally back! [@Sabrina | CEO](../people/Lewis%20Goom.mdx) and I have been working hard to bring you a fully custom server creation dashboard. With our coin system, you can deploy and manage your servers while still benefiting from the reliability and performance of Pterodactyl.
+>It's been a long time coming, especially for those who were around for Alwy, but we're finally back! [@Sabrina | CEO](../people/Lewis%20Goom.md) and I have been working hard to bring you a fully custom server creation dashboard. With our coin system, you can deploy and manage your servers while still benefiting from the reliability and performance of Pterodactyl.
 >
 >To get you started, every new user will receive 350 coins upon registration.
 >

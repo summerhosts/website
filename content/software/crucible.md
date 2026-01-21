@@ -12,5 +12,5 @@ tags:
 ### [GitHub](https://github.com/radarpowered)
 
 ## Versions
-* Crucible 15 [[Altare 8](../hosts/Altare/8.mdx)]
-* Crucible 16 [[Altare 10](../hosts/Altare/10.mdx)]
+* Crucible 15 [[Altare 8](../hosts/Altare/8.md)]
+* Crucible 16 [[Altare 10](../hosts/Altare/10.md)]

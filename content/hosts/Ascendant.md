@@ -119,4 +119,4 @@ _samm9400 (samm9400, `673662795077648424`)_
 > 
 
 ### Discord recycled
-The Ascendant discord was used for [Altare 10](./Altare/10.mdx) after the Altare discord got nuked
+The Ascendant discord was used for [Altare 10](./Altare/10.md) after the Altare discord got nuked

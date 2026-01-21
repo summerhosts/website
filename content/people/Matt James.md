@@ -6,12 +6,12 @@ description: Someone who makes "free" hosts.
 ## Overall information
 * Owner of the majority of the hosts mentioned here
 * Lives in Nottingham
-* Has a place in Nottingham (presumably his moms place) where some nodes for [XEH](../hosts/xeh.sh.mdx) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../hosts/Altare/index.md))
+* Has a place in Nottingham (presumably his moms place) where some nodes for [XEH](../hosts/xeh.sh.md) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../hosts/Altare/1.md)
 * Travels by train regularly
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
 * Owns [SRYDEN](../companies/SRYDEN.md)
-* Previous owner of [Octant](../companies/Octant.md)
-* Developer of [Skyport](https://skyport.dev/) Argon [Heliactyl](../software/heliactyl.mdx) [Palladium](../software/palladium.md) [Radar](../software/radar.mdx) [Watchtower](../software/watchtower.md) [Cryogenic](../software/cryogenic.md) [Terra](../software/terra.md)
+* Previous owner of [Octant](../hosts/octant.gg.md)
+* Developer of [Skyport](https://skyport.dev/) Argon [Heliactyl](../software/heliactyl.md) [Palladium](../software/palladium.md) [Radar](../software/radar.md) [Watchtower](../software/watchtower.md) [Cryogenic](../software/cryogenic.md) [Terra](../software/terra.md)
 
 ## Also known as
 ### In other places

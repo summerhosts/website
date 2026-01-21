@@ -12,7 +12,7 @@ More precisely, Halex 14
 
 ## Halex 14
 ### Info
-* Dashboard software: [Heliactyl](../software/heliactyl.mdx), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
+* Dashboard software: [Heliactyl](../software/heliactyl.md), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
 * [Discord](https://discord.gg/uujB8dtF6t)
 * [Website (offline)](https://halex.gg/)
 * [Website (archive)](https://web.archive.org/web/*/halex.gg)
