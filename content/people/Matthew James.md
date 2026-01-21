@@ -1,34 +1,32 @@
 ---
-title: Matt James
+title: Matthew James
 description: Someone who makes "free" hosts.
 ---
 
 ## Overall information
 * Owner of the majority of the hosts mentioned here
-* Lives in Nottingham
-* Has a place in Nottingham (presumably his moms place) where some nodes for [XEH](../hosts/xeh.sh.md) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../hosts/Altare/1.md)
+* Lives in Nottingham, UK
+* Born in ±2010
+* Has a place in Nottingham (presumably his moms place) where some nodes for [XEH](../hosts/xeh.sh.md) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../hosts/Altare/1.md))
 * Travels by train regularly
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
 * Owns [SRYDEN](../companies/SRYDEN.md)
+* Owns [ZTL](../companies/ztl.md)
 * Previous owner of [Octant](../hosts/octant.gg.md)
 * Developer of [Skyport](https://skyport.dev/) Argon [Heliactyl](../software/heliactyl.md) [Palladium](../software/palladium.md) [Radar](../software/radar.md) [Watchtower](../software/watchtower.md) [Cryogenic](../software/cryogenic.md) [Terra](../software/terra.md)
 
-## Also known as
-### In other places
-* `mark brown`
-* `badsk`
-* `King Tino`
-* `atqr1` (telegram)
-* `Matt James Garcia Iwayan Taglinao the Third`
-* `Etherealized`
-* `Inter`
-* `plex`
-* `layerxbt`
-* `layer`
+## Socials
+* [GitHub](https://github.com/ethzr) - main account
+* [GitHub 2](https://github.com/amperext) - alt
+* [GitHub 3](https://github.com/markb143) - probably an alt
+* [npm](https://npmjs.com/~halex) 
+* [X (formerly Twitter)](https://x.com/ethqzr)
+* [Youtube](https://youtube.com/@ethzr)
+* [Instagram](https://instagram.com/mzttjames)
 
 :::info
 
-The following section is formatted like this:
+The section below is formatted like this:
 * `user ID`
   * `discord username`
     * `discord display name 1`
@@ -36,8 +34,8 @@ The following section is formatted like this:
     * [...]
 
 :::
-in:#announcements 7
-### In Discord
+
+### Discord
 * `1199789031320465448`
   * `twochamberedcokehead`
     * `eth²`
@@ -90,6 +88,24 @@ in:#announcements 7
   * `ethzr`
     * `Ether`
 
+### Other names
+* `atqr1` (telegram)
+* `halex` (npm)
+* `badsk` - has a definition on the [Urban Dictionary](https://www.urbandictionary.com/define.php?term=Badsk)
+* `mark brown`
+* `atqr`
+* `am5z`
+* `ampere`
+* `ararat`
+* `King Tino`
+* `eth`
+* `Matt James Garcia Iwayan Taglinao the Third`
+* `Etherealized`
+* `Inter`
+* `plex`
+* `layerxbt`
+* `layer`
+
 ## Websites
 
 :::info
@@ -108,12 +124,8 @@ The majority if not all pages in this section have been archived on [archive.org
 * [Heliactyl Archive](https://github.com/Heliactyl-Archive)
 
 ## Music Albums
-### lowestoft (unreleased)
+### lowestoft (releases 31st of may)
 _and i probably wont ever release it because it's shit_ - the guy himself  
 [Learn More in the Octant page](/hosts/octant.gg#the-music-album)
 
 ![the matt james album cover](https://summerhosts.github.io/media/ether/music_album_cover.png)
-
-## Relationships
-### Chelsea
-**<DateDisplay timestamp=1749746878992 />**: She got her passport 
