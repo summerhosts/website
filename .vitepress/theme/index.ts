@@ -5,6 +5,7 @@ import DateDisplay from "./components/DateDisplay.vue";
 import { useData } from "vitepress";
 import { createMermaidRenderer } from "vitepress-mermaid-renderer";
 // import "./proper_grouping.css"
+import "./custom.css"
 
 export default {
   extends: DefaultTheme,
