@@ -6,7 +6,7 @@ description: Someone who makes "free" hosts.
 ## Overall information
 * Owner of the majority of the hosts mentioned here
 * Lives in Nottingham, UK
-* Born in ±2010
+* Born in ±2009
 * Has a place in Nottingham (presumably his moms place) where some nodes for [XEH](../hosts/xeh.sh.md) were located (they got bricked by a data breach that did something to the hardware, then they got revived for [altare](../hosts/Altare/1.md))
 * Travels by train regularly
 * Has a [YouTube channel](https://www.youtube.com/@etherxr/)
