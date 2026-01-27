@@ -16,10 +16,13 @@ description: History of SRYDEN.
   * [@sryden.official](https://youtube.com/@sryden.offical)
 * Has a NPM account
   * [@sryden](https://npmjs.com/~sryden)
-* Owned [Halex 14](../hosts/halex.gg.md)
+* Trustpilot
+  * [sryden.com](https://trustpilot.com/review/sryden.com)
+* Owned [Halex](../hosts/halex.gg.md)
 * Owned [gridway](https://gridway.io/)
 * Owned Fractal
 * Owned PlutoNodes
+* Owned PolarisNode
 * Made [Heliactyl](../software/heliactyl.md)
 * Hidden videos
   * [The Best FREE 24/7 Minecraft Server Hosting in 2024 - Halex.gg](https://www.youtube.com/watch?v=Pyir_RsiaFw)
