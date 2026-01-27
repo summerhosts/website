@@ -14,12 +14,12 @@ description: a real person
 ![rm rf consequence](https://summerhosts.github.io/media/halex/15/sabrina_ban.png)
 
 ## Discord
-`sabrinagoom` [ 1083790513112612906 ]
-`sabova` [ 784513403137818664 ]
+* `sabrinagoom` [ 1083790513112612906 ]
+* `sabova` [ 784513403137818664 ]
 
 ## Links 
-[Portfolio](https://sabrinagoom.com)
+* [Portfolio](https://sabrinagoom.com)
 
 ## Socails
-[GitHub](https://github.com/sabrinagoom/)
-[X (formerly Twitter)](https://x.com/sabrinagoom)
+* [GitHub](https://github.com/sabrinagoom/)
+* [X (formerly Twitter)](https://x.com/sabrinagoom)
