@@ -52,6 +52,7 @@ Over the years Heliactyl has been developed by many different people and here ar
 * Heliactyl 15
 * Heliactyl 18
 * Heliactyl 24
+* [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
 * Riptide  
 * Heliactyl Next 3
 * Heliactyl Next 5 (Adelante) / Prism 0.6 (Adelante)
@@ -72,8 +73,6 @@ Over the years Heliactyl has been developed by many different people and here ar
 
 ## Images
 * ![Riptide preview](https://summerhosts.github.io/media/heliactyl/riptide.png)
-* [Heliactyl](../software/heliactyl.md),
-* [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
 * ![halex 14](https://summerhosts.github.io/media/halex/14/dashboard.png)
   
 
