@@ -4,8 +4,8 @@ description: Company that develops Heliactyl, Radar, Skyport and other software 
 ---
 
 ## Links
-[Discord](https://discord.gg/uw5YD6PKRA)
-[GitHub](https://github.com/foundry-sh)
+* [Discord](https://discord.gg/uw5YD6PKRA)
+* [GitHub](https://github.com/foundry-sh)
 
 ## Annoucement
 It was announced in the Sryzen discord server <DateDisplay timestamp=1761141716343 />. Its made of Ether and some people from Altare and Sryzen's team. The software will be open source.
