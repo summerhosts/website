@@ -16,7 +16,15 @@ The first version was `Heliactyl 0.8.0` released on the 29th of October 2020. It
 * [heliactyl.org](https://heliactyl.org) (down)
 * [heliactyl.cloud](https://heliactyl.cloud) (down)
 * [heliactyl.wiki](https://heliactyl.wiki) (down)
+* [heliactyl.com](https://heliactyl.com) (clamied by someone else)
 
+## Developers
+Over the years Heliactyl has been developed by many different people and here are some:
+* Matthew James (Ether) - developer of all Heliactyl versions
+* Ludo (achul123)
+* Ghostload - made Heliactyl 13
+* kingtino
+* and more...
 
 ## Code
 ### GitHub
@@ -45,8 +53,6 @@ The first version was `Heliactyl 0.8.0` released on the 29th of October 2020. It
 * Heliactyl 18
 * Heliactyl 24
 * Riptide  
-  ![Riptide preview](https://summerhosts.github.io/media/heliactyl/riptide.png)
-* [Heliactyl](../software/heliactyl.md), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge) ![halex 14](https://summerhosts.github.io/media/halex/14/dashboard.png)
 * Heliactyl Next 3
 * Heliactyl Next 5 (Adelante) / Prism 0.6 (Adelante)
 * Heliactyl Avanzar 7 [confirmed <DateDisplay timestamp="1740624267095" /> in the [octant](../hosts/octant.gg.md) discord]
@@ -63,3 +69,11 @@ The first version was `Heliactyl 0.8.0` released on the 29th of October 2020. It
 * Heliactyl Next 15 [[Altare 8](../hosts/Altare/8.md)] ![next 15 branding](https://summerhosts.github.io/media/heliactyl/next_15/branding.webp) ![next 15 dashboard](https://summerhosts.github.io/media/heliactyl/next_15/dashboard.webp)
 * Heliactyl Next 16 ![next 16 branding](https://summerhosts.github.io/media/heliactyl/next_16/branding.png)
 * Heliactyl Next 16.1 (Palo Alto) [[Altare 10](../hosts/Altare/10.md)]
+
+## Images
+* ![Riptide preview](https://summerhosts.github.io/media/heliactyl/riptide.png)
+* [Heliactyl](../software/heliactyl.md),
+* [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
+* ![halex 14](https://summerhosts.github.io/media/halex/14/dashboard.png)
+  
+
