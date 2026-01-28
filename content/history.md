@@ -116,9 +116,9 @@ flowchart TD;
   A --> PO;
 
 
-  FO[foxnodes.net] -->|Acquired by ZTX, originally owned by FoxCloud LLC| H14;
+  H14 --> FO;
+  FO[foxnodes.net] -->|Acquired by ZTX, originally owned by FoxCloud LLC| H15;
   H14 --> GR;
-  H14 --> H15;
 
   GR --> |Rebranded| VE;
   H15 --> VE;
