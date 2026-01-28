@@ -22,5 +22,5 @@ tags:
 ![main page](https://summerhosts.github.io/media/polaris/main_page.png)
 
 ## Dashboard
-![dashboard](https://summerhosts.github.io/media/polaris/dashboard.webp)
+![dashboard](https://summerhosts.github.io/media/polaris/dash.webp)
 
