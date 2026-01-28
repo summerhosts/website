@@ -19,8 +19,8 @@ tags:
 
 ## Images
 ### Main page
-![main page](https://summerhosts.github.io/media/polaris/polarisnode.com%20main%20page.png)
+![main page](https://summerhosts.github.io/media/polaris/main_page.png)
 
 ## Dashboard
-![dashboard](https://media.discordapp.net/attachments/1210595124245954570/1216014539842125945/image.png?ex=697a0eca&is=6978bd4a&hm=d35d970c368b88c4901ed17861ba781e2689293fc6a4b544e0884da702ec3a5d&=&width=635&height=312)
+![dashboard](https://summerhosts.github.io/media/polaris/dashboard.webp)
 
