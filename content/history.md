@@ -113,17 +113,17 @@ flowchart TD;
   THAL --> PU;
   PU --> LA;
   LA --> A;
-  A --> H14;
+  A --> PO;
 
+
+  FO[foxnodes.net] -->|Acquired by ZTX, originally owned by FoxCloud LLC| H14;
   H14 --> GR;
-
-  FO[foxnodes.net] -->|Acquired by ZTX, originally owned by FoxCloud LLC| H15;
-  H15 --> PO;
+  H14 --> H15;
 
   GR --> |Rebranded| VE;
   H15 --> VE;
 
-  PO --> FLUX[fluxnodes.net]
+  H15 --> FLUX[fluxnodes.net]
   FLUX--> ZTX;
 
   ZTX --> PA[paladinsrv.com];
