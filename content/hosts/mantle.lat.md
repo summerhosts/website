@@ -71,7 +71,7 @@ The discord server was created on <DateDisplay timestamp="1745582680507" />. It 
 
 ### Mantle launch
 **<DateDisplay timestamp="1748690987174" />**  
-After Ether [resigned from Sryzen](./sryzen.cloud.md#ether-resigns) he decided he would work on Heliactyl Next 11 and Mantle. Metropolis & Mantle launch on {new Date(1749564000 * 1000).toLocaleString()}
+After Ether [resigned from Sryzen](./sryzen.cloud.md#ether-resigns) he decided he would work on Heliactyl Next 11 and Mantle. Metropolis & Mantle launch on <DateDisplay timestamp="1749564000000" />
 
 <details>
 <summary>Original messages</summary>

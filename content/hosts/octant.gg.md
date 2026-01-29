@@ -17,7 +17,8 @@ tags:
 
 ## Events
 ### Server creation
-**{new Date(1739487600 * 1000).toLocaleString()}**  
+**{<DateDisplay timestamp="1739487600000" />}**  
+
 The server was created on this day, i know this because [Ether](../people/Matthew%20James.md) who is the owner of the server joined. The server has 5 channels: <img src="https://summerhosts.github.io/media/icons/discord/rules.png" alt="#" width="15vw"/> rules <img src="https://summerhosts.github.io/media/icons/discord/stage.png" alt="#" width="15vw"/> Event <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>news <img src="https://summerhosts.github.io/media/icons/discord/text.png" alt="#" width="15vw"/>chat <img src="https://summerhosts.github.io/media/icons/discord/voice.png" alt="#" width="15vw"/>General.  
 
 **<DateDisplay timestamp="1739635028021" />**  
@@ -25,11 +26,11 @@ Until this day join messages were sent in <img src="https://summerhosts.github.i
 
 ### Event
 There was going to be an event in the event stage but it was moved to YT.  
-<DateDisplay timestamp="1739557210410" /> {new Date(1739557210410).toLocaleTimeString()}  
+<DateDisplay timestamp="1739557210410" /> <DateDisplay timestamp="1739557210410" />  
 >10 minutes till event lads
 >
 
-<DateDisplay timestamp="1739557411347" /> {new Date(1739557411347).toLocaleTimeString()}  
+<DateDisplay timestamp="1739557411347" /> <DateDisplay timestamp="1739557411347" />  
 >event cancelled
 >will be on YT instead
 >under the ZTX or old sryden channel 
