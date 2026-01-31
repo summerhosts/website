@@ -6,6 +6,7 @@ description: "The replacement for Pterodactyl wings, previously known as Krypton
 ![img](https://summerhosts.github.io/media/cryogenic/15.png)
 
 ## Info
+* Forked from [wings-rs](https://github.com/calagopus-rs/wings)
 * Latest version: cryogenic 15
 * [GitHub](https://github.com/altaresoftware/cryogenic)
 
