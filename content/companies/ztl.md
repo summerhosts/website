@@ -4,6 +4,6 @@ description: AKA ZTL, it's a Metropolis company
 ---
 
 ## Info
-* Formerly Matthew James Industries and zencore
+* Previously known as [Matthew James Industries](./mji.md) and zencore
 * [Website](https://www.ztl.sh/)
 * Managed by [Metropolis](./Metropolis.md)

@@ -6,7 +6,9 @@ tags:
 ---
 
 ## Description
-Argon is a panel made by Matt James. It was meant to be a replacement for Pterodactyl Panel and Skyport.
+Argon is a panel made by Matt James.
+It was meant to be a replacement for Pterodactyl Panel and Skyport.
+Argon was handed over to Zinc Platforms.
 
 ## Links
 * [Website](https://argon.software)

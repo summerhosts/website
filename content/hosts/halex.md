@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Overview
-HalexNodes or Halex was a hosting company which originated somewhere in 2020/2021.
+HalexNodes or Halex was a hosting company which originated in 2020/2021.
 
 ## History
 * First release: HalexNodes
@@ -19,11 +19,9 @@ HalexNodes or Halex was a hosting company which originated somewhere in 2020/202
 * [halex.pages.dev](https://halex.pages.dev)
 * [halexnodes.pages.dev](https://halexnodes.pages.dev)
 
+## Halex 14 {#halex-14}
 ![logo](https://summerhosts.github.io/media/halex/14/logo.png)
 
-More precisely, Halex 14
-
-## Halex 14 {#halex-14}
 ### Info
 * Dashboard software: [Heliactyl](../software/heliactyl.md), [Summit Ridge](https://github.com/Heliactyl-Archive/22750-summit-ridge)
 * [Discord](https://discord.gg/uujB8dtF6t)
