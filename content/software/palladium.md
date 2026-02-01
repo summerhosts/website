@@ -6,4 +6,7 @@ tags:
 ---
 
 ## Info
-### [GitHub](https://github.com/PinePlatforms/Palladium)
+A dashboard which was meant to be a replacement of Heliactyl.
+
+## Links
+* [GitHub](https://github.com/PinePlatforms/Palladium)

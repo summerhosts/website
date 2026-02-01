@@ -1,10 +1,23 @@
 ---
 title: Halex
-sidebar_label: halex.gg
+sidebar_label: Halex
 description: Halex 14/15 were free hosts owned by matt
 tags:
   - Free host
 ---
+
+## Overview
+HalexNodes or Halex was a hosting company which originated somewhere in 2020/2021.
+
+## History
+* First release: HalexNodes
+* Lastest release: Halex 15
+
+## Links
+* [halexnodes.net](https://halexnodes.net)
+* [halex.gg](https://halex.gg)
+* [halex.pages.dev](https://halex.pages.dev)
+* [halexnodes.pages.dev](https://halexnodes.pages.dev)
 
 ![logo](https://summerhosts.github.io/media/halex/14/logo.png)
 
