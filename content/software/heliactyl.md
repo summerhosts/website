@@ -7,7 +7,7 @@ tags:
 ---
 
 ## Description
-This is the dashboard software that was used in [Polaris](../hosts/polarisnode.com.md), [Halex 14](../hosts/halex.gg.md), [Altare 6](../hosts/Altare/6.md), [Altare 7](../hosts/Altare/7.md) and [Gridway](../hosts/gridway.io.md).
+This is the dashboard software that was used in [Polaris](../hosts/polarisnode.com.md), [Halex 14](../hosts/halex.md), [Altare 6](../hosts/Altare/6.md), [Altare 7](../hosts/Altare/7.md) and [Gridway](../hosts/gridway.io.md).
 The first version was `Heliactyl 0.8.0` released on the 29th of October 2020. It was based on [dashactyl](https://github.com/Votion-Development/Dashactyl) [0.1.5](https://github.com/Votion-Development/Dashactyl-0.4) and was named althost client area.
 
 ### Websites

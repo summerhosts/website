@@ -18,7 +18,7 @@ description: History of SRYDEN.
   * [@sryden](https://npmjs.com/~sryden)
 * Trustpilot
   * [sryden.com](https://trustpilot.com/review/sryden.com)
-* Owned [Halex](../hosts/halex.gg.md)
+* Owned [Halex](../hosts/halex.md)
 * Owned [gridway](https://gridway.io/)
 * Owned Fractal
 * Owned PlutoNodes

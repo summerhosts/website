@@ -15,7 +15,7 @@ tags:
 ## History
 * kingtino announced they were going to hire individuals for Foxnodes
 * He got a vps from Peicer
-* Foxnodes got acquired by ZTX and became [Halex 15](../hosts/halex.gg.md#halex-15)
+* Foxnodes got acquired by ZTX and became [Halex 15](../hosts/halex.md#halex-15)
 
 ### Why foxnodes merged into ZTX
 ![dms or something](https://summerhosts.github.io/media/foxnodes/takeover_1.webp)
